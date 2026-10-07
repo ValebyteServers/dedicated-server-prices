@@ -1,6 +1,6 @@
 # Dedicated Server Prices — live dataset
 
-Machine-readable price list of **1726 dedicated servers** currently in stock across
+Machine-readable price list of **1725 dedicated servers** currently in stock across
 **69 countries**, refreshed daily from the
 [Valebyte](https://valebyte.com/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) catalog.
 
@@ -8,7 +8,7 @@ Machine-readable price list of **1726 dedicated servers** currently in stock acr
 - **In stock only** — servers listed here are deployable now, most within minutes to hours, not weeks.
 - **Data files:** [`data/servers.csv`](data/servers.csv) · [`data/servers.json`](data/servers.json) (specs, location, monthly price, USD equivalent, order URL).
 
-_Last update: 2026-10-06 06:20 UTC. Prices below are in USD; CSV/JSON also carry the native price (EUR/USD) per offer._
+_Last update: 2026-10-07 06:20 UTC. Prices below are in USD; CSV/JSON also carry the native price (EUR/USD) per offer._
 
 ## 10 cheapest dedicated servers right now
 
@@ -29,16 +29,16 @@ _Last update: 2026-10-06 06:20 UTC. Prices below are in USD; CSV/JSON also carry
 
 | Country | Servers | From | Browse |
 |---|---|---|---|
-| France | 252 | $22/mo | [dedicated servers in France](https://valebyte.com/en/dedicated-servers-france/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| United States | 119 | $15/mo | [dedicated servers in United States](https://valebyte.com/en/dedicated-servers-united-states/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| Netherlands | 104 | $16/mo | [dedicated servers in Netherlands](https://valebyte.com/en/dedicated-servers-netherlands/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| Canada | 104 | $33/mo | [dedicated servers in Canada](https://valebyte.com/en/dedicated-servers-canada/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| UK | 86 | $54/mo | [dedicated servers in UK](https://valebyte.com/en/dedicated-servers-uk/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| France | 255 | $22/mo | [dedicated servers in France](https://valebyte.com/en/dedicated-servers-france/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| United States | 114 | $15/mo | [dedicated servers in United States](https://valebyte.com/en/dedicated-servers-united-states/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| Netherlands | 103 | $16/mo | [dedicated servers in Netherlands](https://valebyte.com/en/dedicated-servers-netherlands/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| Canada | 103 | $33/mo | [dedicated servers in Canada](https://valebyte.com/en/dedicated-servers-canada/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| UK | 87 | $54/mo | [dedicated servers in UK](https://valebyte.com/en/dedicated-servers-uk/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | India | 72 | $112/mo | [dedicated servers in India](https://valebyte.com/en/dedicated-servers-india/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| Poland | 67 | $51/mo | [dedicated servers in Poland](https://valebyte.com/en/dedicated-servers-poland/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| Germany | 60 | $32/mo | [dedicated servers in Germany](https://valebyte.com/en/dedicated-servers-germany/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| Australia | 50 | $38/mo | [dedicated servers in Australia](https://valebyte.com/en/dedicated-servers-australia/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| Singapore | 47 | $46/mo | [dedicated servers in Singapore](https://valebyte.com/en/dedicated-servers-singapore/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| Poland | 66 | $51/mo | [dedicated servers in Poland](https://valebyte.com/en/dedicated-servers-poland/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| Germany | 61 | $32/mo | [dedicated servers in Germany](https://valebyte.com/en/dedicated-servers-germany/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| Australia | 50 | $40/mo | [dedicated servers in Australia](https://valebyte.com/en/dedicated-servers-australia/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| Singapore | 49 | $54/mo | [dedicated servers in Singapore](https://valebyte.com/en/dedicated-servers-singapore/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Spain | 40 | $51/mo | [dedicated servers in Spain](https://valebyte.com/en/dedicated-servers-spain/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Finland | 35 | $148/mo | [dedicated servers in Finland](https://valebyte.com/en/dedicated-servers-finland/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Italy | 31 | $121/mo | [dedicated servers in Italy](https://valebyte.com/en/dedicated-servers-italy/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
@@ -47,12 +47,12 @@ _Last update: 2026-10-06 06:20 UTC. Prices below are in USD; CSV/JSON also carry
 | Lithuania | 26 | $69/mo | [dedicated servers in Lithuania](https://valebyte.com/en/dedicated-servers-lithuania/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Hungary | 26 | $121/mo | [dedicated servers in Hungary](https://valebyte.com/en/dedicated-servers-hungary/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Brazil | 25 | $147/mo | [dedicated servers in Brazil](https://valebyte.com/en/dedicated-servers-brazil/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| Hong Kong | 24 | $182/mo | [dedicated servers in Hong Kong](https://valebyte.com/en/dedicated-servers-hong-kong/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| Hong Kong | 24 | $181/mo | [dedicated servers in Hong Kong](https://valebyte.com/en/dedicated-servers-hong-kong/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Norway | 23 | $61/mo | [dedicated servers in Norway](https://valebyte.com/en/dedicated-servers-norway/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Slovakia | 23 | $121/mo | [dedicated servers in Slovakia](https://valebyte.com/en/dedicated-servers-slovakia/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | United Arab Emirates | 22 | $281/mo | [dedicated servers in United Arab Emirates](https://valebyte.com/en/dedicated-servers-united-arab-emirates/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| Romania | 21 | $121/mo | [dedicated servers in Romania](https://valebyte.com/en/dedicated-servers-romania/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Austria | 21 | $121/mo | [dedicated servers in Austria](https://valebyte.com/en/dedicated-servers-austria/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| Romania | 21 | $121/mo | [dedicated servers in Romania](https://valebyte.com/en/dedicated-servers-romania/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Denmark | 19 | $110/mo | [dedicated servers in Denmark](https://valebyte.com/en/dedicated-servers-denmark/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Belgium | 19 | $121/mo | [dedicated servers in Belgium](https://valebyte.com/en/dedicated-servers-belgium/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Ireland | 19 | $121/mo | [dedicated servers in Ireland](https://valebyte.com/en/dedicated-servers-ireland/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
@@ -66,13 +66,13 @@ _Last update: 2026-10-06 06:20 UTC. Prices below are in USD; CSV/JSON also carry
 | Portugal | 12 | $100/mo | [dedicated servers in Portugal](https://valebyte.com/en/dedicated-servers-portugal/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Costa Rica | 12 | $132/mo | [dedicated servers in Costa Rica](https://valebyte.com/en/dedicated-servers-costa-rica/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Vietnam | 12 | $168/mo | [dedicated servers in Vietnam](https://valebyte.com/en/dedicated-servers-vietnam/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| Morocco | 12 | $347/mo | [dedicated servers in Morocco](https://valebyte.com/en/dedicated-servers-morocco/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| Morocco | 12 | $348/mo | [dedicated servers in Morocco](https://valebyte.com/en/dedicated-servers-morocco/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Latvia | 11 | $70/mo | [dedicated servers in Latvia](https://valebyte.com/en/dedicated-servers-latvia/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Moldova | 11 | $100/mo | [dedicated servers in Moldova](https://valebyte.com/en/dedicated-servers-moldova/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Albania | 11 | $121/mo | [dedicated servers in Albania](https://valebyte.com/en/dedicated-servers-albania/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Tunisia | 11 | $308/mo | [dedicated servers in Tunisia](https://valebyte.com/en/dedicated-servers-tunisia/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Malaysia | 10 | $160/mo | [dedicated servers in Malaysia](https://valebyte.com/en/dedicated-servers-malaysia/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| Mexico | 10 | $415/mo | [dedicated servers in Mexico](https://valebyte.com/en/dedicated-servers-mexico/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| Mexico | 10 | $416/mo | [dedicated servers in Mexico](https://valebyte.com/en/dedicated-servers-mexico/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Bosnia and Herzegovina | 8 | $151/mo | [dedicated servers in Bosnia and Herzegovina](https://valebyte.com/en/dedicated-servers-bosnia-and-herzegovina/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Taiwan | 8 | $195/mo | [dedicated servers in Taiwan](https://valebyte.com/en/dedicated-servers-taiwan/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Greece | 7 | $253/mo | [dedicated servers in Greece](https://valebyte.com/en/dedicated-servers-greece/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
@@ -82,7 +82,7 @@ _Last update: 2026-10-06 06:20 UTC. Prices below are in USD; CSV/JSON also carry
 | Thailand | 6 | $261/mo | [dedicated servers in Thailand](https://valebyte.com/en/dedicated-servers-thailand/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Turkey | 6 | $280/mo | [dedicated servers in Turkey](https://valebyte.com/en/dedicated-servers-turkey/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Israel | 6 | $334/mo | [dedicated servers in Israel](https://valebyte.com/en/dedicated-servers-israel/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
-| Nigeria | 6 | $508/mo | [dedicated servers in Nigeria](https://valebyte.com/en/dedicated-servers-nigeria/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
+| Nigeria | 6 | $509/mo | [dedicated servers in Nigeria](https://valebyte.com/en/dedicated-servers-nigeria/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 | Kenya | 5 | $374/mo | [dedicated servers in Kenya](https://valebyte.com/en/dedicated-servers-kenya/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) |
 
 ## AMD Ryzen
@@ -102,7 +102,7 @@ _Last update: 2026-10-06 06:20 UTC. Prices below are in USD; CSV/JSON also carry
 
 | Server | CPU | RAM | Storage | Location | Price |
 |---|---|---|---|---|---|
-| [AMD Epyc 7351P 2.4GHz 16 cores](https://valebyte.com/en/servers/amd-epyc-7351p-24ghz-16-cores-frankfurt-de/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | AMD Epyc 7351P 2.4GHz 16 cores | 256 GB DDR4 ECC | 2x 500 GB (NVME SoftRAID) | Frankfurt, DE | **$73/mo** |
+| [AMD Epyc 7451 2.3GHz 24 cores](https://valebyte.com/en/servers/amd-epyc-7451-23ghz-24-cores-frankfurt-de-1/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | AMD Epyc 7451 2.3GHz 24 cores | 128 GB DDR4 ECC | 2x 4 TB (SATA SoftRAID) | Frankfurt, DE | **$115/mo** |
 | [AMD EPYC 7351p 2.4GHz 16 cores](https://valebyte.com/en/servers/amd-epyc-7351p-24ghz-16-cores-dusseldorf-de/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | AMD EPYC 7351p 2.4GHz 16 cores | 64 GB DDR4 | 2x 450 GB (SSD NVMe) | Dusseldorf, DE | **$126/mo** |
 | [AMD EPYC 7451 2.3GHz 24 cores](https://valebyte.com/en/servers/amd-epyc-7451-23ghz-24-cores-warsaw-pl/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | AMD EPYC 7451 2.3GHz 24 cores | 128 GB DDR4 | 2x 500 GB (SSD NVMe) | Warsaw, PL | **$126/mo** |
 | [AMD EPYC 7451 2.3GHz 24 cores](https://valebyte.com/en/servers/amd-epyc-7451-23ghz-24-cores-montreal-ca/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | AMD EPYC 7451 2.3GHz 24 cores | 128 GB DDR4 | 2x 500 GB (SSD NVMe) | Montreal, CA | **$143/mo** |
@@ -121,7 +121,7 @@ _Last update: 2026-10-06 06:20 UTC. Prices below are in USD; CSV/JSON also carry
 | [Intel Core i9 9900K 128GB](https://valebyte.com/en/servers/intel-core-i9-9900k-128gb-miami-us/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Core i9 9900K | 128 GB |  | Miami, US | **$167/mo** |
 | [Intel Core i9-10900K 3.7GHz 10 cores](https://valebyte.com/en/servers/intel-core-i9-10900k-37ghz-10-cores-chisinau-md/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Core i9-10900K 3.7GHz 10 cores | 64 GB DDR4 | 2x 240 GB (SSD SATA) | Chisinau, MD | **$210/mo** |
 | [Intel Core i9 13900K 128GB](https://valebyte.com/en/servers/intel-core-i9-13900k-128gb-new-york-us/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Core i9 13900K | 128 GB |  | New York, US | **$359/mo** |
-| [Intel Core i9-14900K 3.2GHz 24 cores](https://valebyte.com/en/servers/intel-core-i9-14900k-32ghz-24-cores-bangkok-th/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Core i9-14900K 3.2GHz 24 cores | 32 GB DDR4 | 1 TB (SSD NVMe) | Bangkok, TH | **$442/mo** |
+| [Intel Core i9-14900K 3.2GHz 24 cores](https://valebyte.com/en/servers/intel-core-i9-14900k-32ghz-24-cores-bangkok-th/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Core i9-14900K 3.2GHz 24 cores | 32 GB DDR4 | 1 TB (SSD NVMe) | Bangkok, TH | **$443/mo** |
 | [Intel Core i9 14900K 192GB](https://valebyte.com/en/servers/intel-core-i9-14900k-192gb-miami-us/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Core i9 14900K | 192GB DDR5 | 2x4TB NVMe | Miami, US | **$479/mo** |
 
 ## Intel Xeon (budget workhorses)
@@ -141,14 +141,14 @@ _Last update: 2026-10-06 06:20 UTC. Prices below are in USD; CSV/JSON also carry
 
 | Server | CPU | RAM | Storage | Location | Price |
 |---|---|---|---|---|---|
-| [Intel Xeon D-2123IT](https://valebyte.com/en/servers/intel-xeon-d-2123it-frankfurt-de/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Xeon D-2123IT | 32 GB DDR4 ECC | 2x 500 GB (NVME SoftRAID) | Frankfurt, DE | **$43/mo** |
 | [Intel Core i7 7700K 4.2GHz 4 cores](https://valebyte.com/en/servers/intel-core-i7-7700k-42ghz-4-cores-singapore-sg/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Core i7 7700K 4.2GHz 4 cores | 32 GB DDR4 | 2x 450 GB + 4 TB (NVME Hybrid SoftRAID) | Singapore, SG | **$54/mo** |
 | [Intel Core i7 7700K 4.2GHz 4 cores](https://valebyte.com/en/servers/intel-core-i7-7700k-42ghz-4-cores-sydney-au/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Core i7 7700K 4.2GHz 4 cores | 64 GB DDR4 | 2x 450 GB + 4 TB (NVME Hybrid SoftRAID) | Sydney, AU | **$54/mo** |
 | [Intel Xeon-E 2136 3.3GHz 6 cores](https://valebyte.com/en/servers/intel-xeon-e-2136-33ghz-6-cores-beauharnois-ca-1/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Xeon-E 2136 3.3GHz 6 cores | 32 GB DDR4 ECC | 2x 512 GB (NVME SoftRAID) | Beauharnois, CA | **$57/mo** |
 | [Intel Xeon E-2136 3.3GHz 6 cores](https://valebyte.com/en/servers/intel-xeon-e-2136-33ghz-6-cores-sydney-au/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Xeon E-2136 3.3GHz 6 cores | 32 GB DDR4 | 2x 512 GB (SSD NVMe) | Sydney, AU | **$66/mo** |
 | [Intel Xeon-D 2141I 2.2GHz 8 cores](https://valebyte.com/en/servers/intel-xeon-d-2141i-22ghz-8-cores-beauharnois-ca/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | Intel Xeon-D 2141I 2.2GHz 8 cores | 128 GB DDR4 ECC | 2x 512 GB (NVME SoftRAID) | Beauharnois, CA | **$71/mo** |
-| [AMD Epyc 7351P 2.4GHz 16 cores](https://valebyte.com/en/servers/amd-epyc-7351p-24ghz-16-cores-frankfurt-de/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | AMD Epyc 7351P 2.4GHz 16 cores | 256 GB DDR4 ECC | 2x 500 GB (NVME SoftRAID) | Frankfurt, DE | **$73/mo** |
 | [AMD Ryzen PRO 3600 3.60GHz 6 cores](https://valebyte.com/en/servers/amd-ryzen-pro-3600-3-60ghz-6-32gb-2048gb-warsaw-pl-f70435/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | AMD Ryzen PRO 3600 3.60GHz 6 cores | 32 GB DDR4 | 2 x 1.02 TB (NVMe) | Warsaw, PL | **$74/mo** |
+| [AMD Ryzen PRO 3600 3.60GHz 6 cores](https://valebyte.com/en/servers/amd-ryzen-pro-3600-3-60ghz-6-32gb-2048gb-amsterdam-nl-2fde99/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | AMD Ryzen PRO 3600 3.60GHz 6 cores | 32 GB DDR4 | 2 x 1.02 TB (NVMe) | Amsterdam, NL | **$74/mo** |
+| [AMD Ryzen PRO 3600 3.60GHz 6 cores](https://valebyte.com/en/servers/amd-ryzen-pro-3600-3-60ghz-6-32gb-2048gb-paris-fr-554f91/?utm_source=github&utm_medium=readme&utm_campaign=dedicated-server-prices) | AMD Ryzen PRO 3600 3.60GHz 6 cores | 32 GB DDR4 | 2 x 1.02 TB (NVMe) | Paris, FR | **$74/mo** |
 
 ## Unmetered bandwidth
 
