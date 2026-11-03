@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-02T06:20:03Z",
- "count": 1657,
+ "generated_at": "2026-11-03T06:20:03Z",
+ "count": 1644,
  "source": "https://valebyte.com/en/dedicated-servers/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices",
  "servers": [
   {
@@ -482,26 +482,6 @@
    "currency": "EUR",
    "price_usd": 40.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-d-1531-22ghz-6-cores-paris-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon-E3 1245 v5 3.5GHz 4 cores",
-   "cpu": "Intel Xeon-E3 1245 v5 3.5GHz 4 cores",
-   "cpu_cores": 4,
-   "cpu_threads": 8,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR4 ECC",
-   "ram_gb": 64,
-   "storage": "2x 2 TB (SATA SoftRAID)",
-   "storage_gb": 4000,
-   "nvme": false,
-   "bandwidth": "5 TB/month @ 300 Mbps",
-   "location": "Sydney, AU",
-   "country": "Australia",
-   "country_code": "AU",
-   "price_monthly": 34,
-   "currency": "EUR",
-   "price_usd": 40.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e3-1245-v5-35ghz-4-cores-sydney-au-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Core i7-4790K 4GHz 4 cores",
@@ -1804,26 +1784,6 @@
    "url": "https://valebyte.com/en/servers/intel-xeon-d-1531-22ghz-6-cores-paris-fr-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "AMD Ryzen 5 PRO 3600 3.60GHz 6 cores",
-   "cpu": "AMD Ryzen 5 PRO 3600 3.60GHz 6 cores",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
-   "cpu_benchmark": 18037,
-   "ram": "32 GB DDR4",
-   "ram_gb": 32,
-   "storage": "2 x 1 TB (NVMe SSD)",
-   "storage_gb": 2000,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 500 Mbps",
-   "location": "Paris, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 63,
-   "currency": "EUR",
-   "price_usd": 74.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-5-pro-3600-3-60ghz-6-32gb-2000gb-paris-fr-a36f37/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "Intel Xeon E3 1240v6 3.70GHz 4 cores",
    "cpu": "Intel Xeon E3 1240v6 3.70GHz 4 cores",
    "cpu_cores": 4,
@@ -1842,26 +1802,6 @@
    "currency": "EUR",
    "price_usd": 74.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e3-1240v6-3-70ghz-4-32gb-500gb-paris-fr-ef432a/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD Ryzen 5 PRO 3600 3.60GHz 6 cores",
-   "cpu": "AMD Ryzen 5 PRO 3600 3.60GHz 6 cores",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
-   "cpu_benchmark": 18037,
-   "ram": "32 GB DDR4",
-   "ram_gb": 32,
-   "storage": "2 x 1 TB (NVMe SSD)",
-   "storage_gb": 2000,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 500 Mbps",
-   "location": "Amsterdam, NL",
-   "country": "Netherlands",
-   "country_code": "NL",
-   "price_monthly": 63,
-   "currency": "EUR",
-   "price_usd": 74.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-5-pro-3600-3-60ghz-6-32gb-2000gb-amsterdam-nl-8f3fdb/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E3 1240v6 3.70GHz 4 cores",
@@ -3124,6 +3064,26 @@
    "url": "https://valebyte.com/en/servers/amd-ryzen-5-3600x-38ghz-6-cores-lille-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
+   "name": "AMD Ryzen 7 3700X 3.6GHz 8 cores",
+   "cpu": "AMD Ryzen 7 3700X 3.6GHz 8 cores",
+   "cpu_cores": 8,
+   "cpu_threads": 16,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR4",
+   "ram_gb": 64,
+   "storage": "2x 2 TB (HDD SATA)",
+   "storage_gb": 4000,
+   "nvme": false,
+   "bandwidth": "Unmetered @ 1 Gbps",
+   "location": "Dusseldorf, DE",
+   "country": "Germany",
+   "country_code": "DE",
+   "price_monthly": 84,
+   "currency": "EUR",
+   "price_usd": 99.0,
+   "url": "https://valebyte.com/en/servers/amd-ryzen-7-3700x-36ghz-8-cores-dusseldorf-de/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
    "name": "Intel Core i7-9700K 3.6GHz 8 cores",
    "cpu": "Intel Core i7-9700K 3.6GHz 8 cores",
    "cpu_cores": 8,
@@ -3182,26 +3142,6 @@
    "currency": "EUR",
    "price_usd": 99.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-1650-v3-35ghz-6-cores-amsterdam-nl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD Ryzen 7 3700X 3.6GHz 8 cores",
-   "cpu": "AMD Ryzen 7 3700X 3.6GHz 8 cores",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR4",
-   "ram_gb": 64,
-   "storage": "2x 2 TB (HDD SATA)",
-   "storage_gb": 4000,
-   "nvme": false,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Dusseldorf, DE",
-   "country": "Germany",
-   "country_code": "DE",
-   "price_monthly": 84,
-   "currency": "EUR",
-   "price_usd": 99.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-7-3700x-36ghz-8-cores-dusseldorf-de/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E5-1410 v2 2.8GHz 4 cores",
@@ -4364,6 +4304,26 @@
    "url": "https://valebyte.com/en/servers/amd-ryzen-7-3800x-39ghz-8-cores-gravelines-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
+   "name": "Intel Xeon E3-1230 v5 3GHz 4 cores",
+   "cpu": "Intel Xeon E3-1230 v5 3GHz 4 cores",
+   "cpu_cores": 4,
+   "cpu_threads": 8,
+   "cpu_benchmark": "",
+   "ram": "8 GB DDR4",
+   "ram_gb": 8,
+   "storage": "1 TB (HDD SATA)",
+   "storage_gb": 1000,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Budapest, HU",
+   "country": "Hungary",
+   "country_code": "HU",
+   "price_monthly": 103,
+   "currency": "EUR",
+   "price_usd": 121.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-e3-1230-v5-3ghz-4-cores-budapest-hu/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
    "name": "Intel Xeon-E 2388G 3.2GHz 8 cores",
    "cpu": "Intel Xeon-E 2388G 3.2GHz 8 cores",
    "cpu_cores": 8,
@@ -4482,26 +4442,6 @@
    "currency": "EUR",
    "price_usd": 121.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e3-1230-v5-3ghz-4-cores-bucharest-ro/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon E3-1230 v5 3GHz 4 cores",
-   "cpu": "Intel Xeon E3-1230 v5 3GHz 4 cores",
-   "cpu_cores": 4,
-   "cpu_threads": 8,
-   "cpu_benchmark": "",
-   "ram": "8 GB DDR4",
-   "ram_gb": 8,
-   "storage": "1 TB (HDD SATA)",
-   "storage_gb": 1000,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Budapest, HU",
-   "country": "Hungary",
-   "country_code": "HU",
-   "price_monthly": 103,
-   "currency": "EUR",
-   "price_usd": 121.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e3-1230-v5-3ghz-4-cores-budapest-hu/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E3-1230 v5 3GHz 4 cores",
@@ -5584,6 +5524,26 @@
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-1650v3-3-50ghz-6-96gb-1500gb-paris-fr-080e9f/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
+   "name": "Intel Xeon E3-1270 v6 3.8GHz 4 cores",
+   "cpu": "Intel Xeon E3-1270 v6 3.8GHz 4 cores",
+   "cpu_cores": 4,
+   "cpu_threads": 8,
+   "cpu_benchmark": "",
+   "ram": "16 GB DDR4",
+   "ram_gb": 16,
+   "storage": "2 TB (HDD SATA)",
+   "storage_gb": 2000,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Belgrade, RS",
+   "country": "Serbia",
+   "country_code": "RS",
+   "price_monthly": 111,
+   "currency": "EUR",
+   "price_usd": 130.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-e3-1270-v6-38ghz-4-cores-belgrade-rs/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
    "name": "[Dual] Intel Xeon E5-2630 v3 2.4GHz 8 cores",
    "cpu": "[Dual] Intel Xeon E5-2630 v3 2.4GHz 8 cores",
    "cpu_cores": 8,
@@ -5682,26 +5642,6 @@
    "currency": "EUR",
    "price_usd": 130.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e3-1270-v6-38ghz-4-cores-bucharest-ro/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon E3-1270 v6 3.8GHz 4 cores",
-   "cpu": "Intel Xeon E3-1270 v6 3.8GHz 4 cores",
-   "cpu_cores": 4,
-   "cpu_threads": 8,
-   "cpu_benchmark": "",
-   "ram": "16 GB DDR4",
-   "ram_gb": 16,
-   "storage": "2 TB (HDD SATA)",
-   "storage_gb": 2000,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Belgrade, RS",
-   "country": "Serbia",
-   "country_code": "RS",
-   "price_monthly": 111,
-   "currency": "EUR",
-   "price_usd": 130.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e3-1270-v6-38ghz-4-cores-belgrade-rs/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD Ryzen 5 5600 3.5GHz 6 cores",
@@ -5815,6 +5755,26 @@
    "storage_gb": 2000,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Prague, CZ",
+   "country": "Czechia (Czech Republic)",
+   "country_code": "CZ",
+   "price_monthly": 111,
+   "currency": "EUR",
+   "price_usd": 130.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-e3-1270-v6-38ghz-4-cores-prague-cz/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "Intel Xeon E3-1270 v6 3.8GHz 4 cores",
+   "cpu": "Intel Xeon E3-1270 v6 3.8GHz 4 cores",
+   "cpu_cores": 4,
+   "cpu_threads": 8,
+   "cpu_benchmark": "",
+   "ram": "16 GB DDR4",
+   "ram_gb": 16,
+   "storage": "2 TB (HDD SATA)",
+   "storage_gb": 2000,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
    "location": "Vienna, AT",
    "country": "Austria",
    "country_code": "AT",
@@ -5882,26 +5842,6 @@
    "currency": "EUR",
    "price_usd": 130.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e3-1270-v6-38ghz-4-cores-manchester-uk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon E3-1270 v6 3.8GHz 4 cores",
-   "cpu": "Intel Xeon E3-1270 v6 3.8GHz 4 cores",
-   "cpu_cores": 4,
-   "cpu_threads": 8,
-   "cpu_benchmark": "",
-   "ram": "16 GB DDR4",
-   "ram_gb": 16,
-   "storage": "2 TB (HDD SATA)",
-   "storage_gb": 2000,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Prague, CZ",
-   "country": "Czechia (Czech Republic)",
-   "country_code": "CZ",
-   "price_monthly": 111,
-   "currency": "EUR",
-   "price_usd": 130.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e3-1270-v6-38ghz-4-cores-prague-cz/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E3-1270 v6 3.8GHz 4 cores",
@@ -7424,26 +7364,6 @@
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2246g-3-60ghz-6-32gb-960gb-amsterdam-nl-1753e3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "Intel Xeon E5 1410v2 2.80GHz 4 cores",
-   "cpu": "Intel Xeon E5 1410v2 2.80GHz 4 cores",
-   "cpu_cores": 4,
-   "cpu_threads": 8,
-   "cpu_benchmark": 5842,
-   "ram": "64 GB DDR3",
-   "ram_gb": 64,
-   "storage": "3 x 6 TB (HDD SATA)",
-   "storage_gb": 18000,
-   "nvme": false,
-   "bandwidth": "Unmetered @ 500 Mbps",
-   "location": "Paris, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 130,
-   "currency": "EUR",
-   "price_usd": 153.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e5-1410v2-2-80ghz-4-64gb-18000gb-paris-fr-3a7a70/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "Intel Xeon E3-1230 v5 3GHz 4 cores",
    "cpu": "Intel Xeon E3-1230 v5 3GHz 4 cores",
    "cpu_cores": 4,
@@ -7582,26 +7502,6 @@
    "currency": "EUR",
    "price_usd": 154.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-7371-31ghz-16-cores-london-gb/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 4244P 3.8GHz 6 cores",
-   "cpu": "AMD EPYC 4244P 3.8GHz 6 cores",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
-   "cpu_benchmark": "",
-   "ram": "128 GB DDR4 ECC",
-   "ram_gb": 128,
-   "storage": "2x 960 GB (NVME SoftRAID)",
-   "storage_gb": 1920,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 3 Gbps",
-   "location": "Gravelines, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 131,
-   "currency": "EUR",
-   "price_usd": 154.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-gravelines-fr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD Ryzen 7 5800X 3.8GHz 8 cores",
@@ -7906,28 +7806,8 @@
   {
    "name": "AMD Ryzen 5600X 64GB",
    "cpu": "AMD Ryzen 5600X",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
-   "cpu_benchmark": "",
-   "ram": "64GB DDR4",
-   "ram_gb": 64,
-   "storage": "512GB NVMe",
-   "storage_gb": 512,
-   "nvme": true,
-   "bandwidth": "1 Gbps Unmetered",
-   "location": "Los Angeles, US",
-   "country": "United States",
-   "country_code": "US",
-   "price_monthly": 155,
-   "currency": "USD",
-   "price_usd": 155.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-5600x-64gb-los-angeles-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD Ryzen 5600X 64GB",
-   "cpu": "AMD Ryzen 5600X",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
+   "cpu_cores": "",
+   "cpu_threads": "",
    "cpu_benchmark": "",
    "ram": "64GB DDR4",
    "ram_gb": 64,
@@ -7942,6 +7822,26 @@
    "currency": "USD",
    "price_usd": 155.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-5600x-64gb-miami-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD Ryzen 5600X 64GB",
+   "cpu": "AMD Ryzen 5600X",
+   "cpu_cores": "",
+   "cpu_threads": "",
+   "cpu_benchmark": "",
+   "ram": "64GB DDR4",
+   "ram_gb": 64,
+   "storage": "512GB NVMe",
+   "storage_gb": 512,
+   "nvme": true,
+   "bandwidth": "1 Gbps Unmetered",
+   "location": "Los Angeles, US",
+   "country": "United States",
+   "country_code": "US",
+   "price_monthly": 155,
+   "currency": "USD",
+   "price_usd": 155.0,
+   "url": "https://valebyte.com/en/servers/amd-ryzen-5600x-64gb-los-angeles-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Core i9 9900K 64GB",
@@ -8142,46 +8042,6 @@
    "currency": "EUR",
    "price_usd": 157.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-9-5900x-37ghz-12-cores-roubaix-fr-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon E5 1650",
-   "cpu": "Intel Xeon E5 1650, 6C/12T @ 3.2GHz",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR3",
-   "ram_gb": 64,
-   "storage": "2x953GB (SSD)",
-   "storage_gb": 1906,
-   "nvme": false,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Warsaw, PL",
-   "country": "Poland",
-   "country_code": "PL",
-   "price_monthly": 135,
-   "currency": "EUR",
-   "price_usd": 158.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e5-1650-warsaw-pl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon E5 1410 v2",
-   "cpu": "Intel Xeon E5 1410 v2, 4C/8T @ 2.8GHz",
-   "cpu_cores": 4,
-   "cpu_threads": 8,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR3",
-   "ram_gb": 64,
-   "storage": "2x953GB (SSD)",
-   "storage_gb": 1906,
-   "nvme": false,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Paris, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 135,
-   "currency": "EUR",
-   "price_usd": 158.0,
-   "url": "https://valebyte.com/en/servers/scaleway-em-a315x-ssd-paris-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Silver 4110 2.1GHz 8 cores",
@@ -8564,30 +8424,10 @@
    "url": "https://valebyte.com/en/servers/intel-xeon-e3-1231-v3-34ghz-4-cores-budapest-hu-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "AMD Ryzen 5800X 64GB",
-   "cpu": "AMD Ryzen 5800X",
-   "cpu_cores": "",
-   "cpu_threads": "",
-   "cpu_benchmark": "",
-   "ram": "64GB DDR4",
-   "ram_gb": 64,
-   "storage": "512GB NVMe",
-   "storage_gb": 512,
-   "nvme": true,
-   "bandwidth": "1 Gbps Unmetered",
-   "location": "Miami, US",
-   "country": "United States",
-   "country_code": "US",
-   "price_monthly": 167,
-   "currency": "USD",
-   "price_usd": 167.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-5800x-64gb-miami-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "AMD Ryzen 5600X 128GB",
    "cpu": "AMD Ryzen 5600X",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
+   "cpu_cores": "",
+   "cpu_threads": "",
    "cpu_benchmark": "",
    "ram": "128GB DDR4",
    "ram_gb": 128,
@@ -8615,6 +8455,26 @@
    "storage_gb": 512,
    "nvme": true,
    "bandwidth": "1 Gbps Unmetered",
+   "location": "Miami, US",
+   "country": "United States",
+   "country_code": "US",
+   "price_monthly": 167,
+   "currency": "USD",
+   "price_usd": 167.0,
+   "url": "https://valebyte.com/en/servers/amd-ryzen-5800x-64gb-miami-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD Ryzen 5800X 64GB",
+   "cpu": "AMD Ryzen 5800X",
+   "cpu_cores": "",
+   "cpu_threads": "",
+   "cpu_benchmark": "",
+   "ram": "64GB DDR4",
+   "ram_gb": 64,
+   "storage": "512GB NVMe",
+   "storage_gb": 512,
+   "nvme": true,
+   "bandwidth": "1 Gbps Unmetered",
    "location": "New York, US",
    "country": "United States",
    "country_code": "US",
@@ -8626,8 +8486,8 @@
   {
    "name": "AMD Ryzen 5600X 128GB",
    "cpu": "AMD Ryzen 5600X",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
+   "cpu_cores": "",
+   "cpu_threads": "",
    "cpu_benchmark": "",
    "ram": "128GB DDR4",
    "ram_gb": 128,
@@ -9284,6 +9144,26 @@
    "url": "https://valebyte.com/en/servers/amd-ryzen-3900x-64gb-new-york-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
+   "name": "AMD Ryzen 5800X 128GB",
+   "cpu": "AMD Ryzen 5800X",
+   "cpu_cores": "",
+   "cpu_threads": "",
+   "cpu_benchmark": "",
+   "ram": "128GB DDR4",
+   "ram_gb": 128,
+   "storage": "1TB NVMe",
+   "storage_gb": 1000,
+   "nvme": true,
+   "bandwidth": "1 Gbps Unmetered",
+   "location": "New York, US",
+   "country": "United States",
+   "country_code": "US",
+   "price_monthly": 179,
+   "currency": "USD",
+   "price_usd": 179.0,
+   "url": "https://valebyte.com/en/servers/amd-ryzen-5800x-128gb-new-york-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
    "name": "Intel Core i9 10900K 128GB",
    "cpu": "Intel Core i9 10900K",
    "cpu_cores": "",
@@ -9575,13 +9455,13 @@
    "storage_gb": 240,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Barcelona, ES",
-   "country": "Spain",
-   "country_code": "ES",
+   "location": "Milan, IT",
+   "country": "Italy",
+   "country_code": "IT",
    "price_monthly": 156,
    "currency": "EUR",
    "price_usd": 183.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e-2456-33ghz-6-cores-barcelona-es/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/intel-xeon-e-2456-33ghz-6-cores-milan-it/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E-2456 3.3GHz 6 cores",
@@ -9595,13 +9475,13 @@
    "storage_gb": 240,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Milan, IT",
-   "country": "Italy",
-   "country_code": "IT",
+   "location": "Barcelona, ES",
+   "country": "Spain",
+   "country_code": "ES",
    "price_monthly": 156,
    "currency": "EUR",
    "price_usd": 183.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e-2456-33ghz-6-cores-milan-it/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/intel-xeon-e-2456-33ghz-6-cores-barcelona-es/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E-2456 3.3GHz 6 cores",
@@ -10444,26 +10324,6 @@
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2609-v4-17ghz-8-cores-hong-kong-hk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "Intel Xeon E3-1230 v6 3.5GHz 4 cores",
-   "cpu": "Intel Xeon E3-1230 v6 3.5GHz 4 cores",
-   "cpu_cores": 4,
-   "cpu_threads": 8,
-   "cpu_benchmark": "",
-   "ram": "32 GB DDR4",
-   "ram_gb": 32,
-   "storage": "1 TB (HDD SATA)",
-   "storage_gb": 1000,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Taipei, TW",
-   "country": "Taiwan",
-   "country_code": "TW",
-   "price_monthly": 167,
-   "currency": "EUR",
-   "price_usd": 196.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e3-1230-v6-35ghz-4-cores-taipei-tw/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "Intel Xeon E-2276G 3.8GHz 6 cores",
    "cpu": "Intel Xeon E-2276G 3.8GHz 6 cores",
    "cpu_cores": 6,
@@ -10482,6 +10342,26 @@
    "currency": "EUR",
    "price_usd": 196.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2276g-38ghz-6-cores-hong-kong-hk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "Intel Xeon E3-1230 v6 3.5GHz 4 cores",
+   "cpu": "Intel Xeon E3-1230 v6 3.5GHz 4 cores",
+   "cpu_cores": 4,
+   "cpu_threads": 8,
+   "cpu_benchmark": "",
+   "ram": "32 GB DDR4",
+   "ram_gb": 32,
+   "storage": "1 TB (HDD SATA)",
+   "storage_gb": 1000,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Taipei, TW",
+   "country": "Taiwan",
+   "country_code": "TW",
+   "price_monthly": 167,
+   "currency": "EUR",
+   "price_usd": 196.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-e3-1230-v6-35ghz-4-cores-taipei-tw/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E3-1230 v5 3GHz 4 cores",
@@ -10555,6 +10435,26 @@
    "storage_gb": 4000,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Barcelona, ES",
+   "country": "Spain",
+   "country_code": "ES",
+   "price_monthly": 168,
+   "currency": "EUR",
+   "price_usd": 197.0,
+   "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2609-v4-17ghz-8-cores-barcelona-es/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "[Dual] Intel Xeon E5-2609 v4 1.7GHz 8 cores",
+   "cpu": "[Dual] Intel Xeon E5-2609 v4 1.7GHz 8 cores",
+   "cpu_cores": 8,
+   "cpu_threads": 16,
+   "cpu_benchmark": "",
+   "ram": "16 GB DDR4",
+   "ram_gb": 16,
+   "storage": "2x 2 TB (HDD SATA)",
+   "storage_gb": 4000,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
    "location": "Budapest, HU",
    "country": "Hungary",
    "country_code": "HU",
@@ -10602,26 +10502,6 @@
    "currency": "EUR",
    "price_usd": 197.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2609-v4-17ghz-8-cores-vienna-at/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "[Dual] Intel Xeon E5-2609 v4 1.7GHz 8 cores",
-   "cpu": "[Dual] Intel Xeon E5-2609 v4 1.7GHz 8 cores",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
-   "cpu_benchmark": "",
-   "ram": "16 GB DDR4",
-   "ram_gb": 16,
-   "storage": "2x 2 TB (HDD SATA)",
-   "storage_gb": 4000,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Barcelona, ES",
-   "country": "Spain",
-   "country_code": "ES",
-   "price_monthly": 168,
-   "currency": "EUR",
-   "price_usd": 197.0,
-   "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2609-v4-17ghz-8-cores-barcelona-es/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon E5-2609 v4 1.7GHz 8 cores",
@@ -11035,13 +10915,13 @@
    "storage_gb": 1000,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Stockholm, SE",
-   "country": "Sweden",
-   "country_code": "SE",
+   "location": "Bratislava, SK",
+   "country": "Slovakia",
+   "country_code": "SK",
    "price_monthly": 172,
    "currency": "EUR",
    "price_usd": 202.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-stockholm-se/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-bratislava-sk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4244P 3.8GHz 6 cores",
@@ -11055,13 +10935,13 @@
    "storage_gb": 1000,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Bratislava, SK",
-   "country": "Slovakia",
-   "country_code": "SK",
+   "location": "Stockholm, SE",
+   "country": "Sweden",
+   "country_code": "SE",
    "price_monthly": 172,
    "currency": "EUR",
    "price_usd": 202.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-bratislava-sk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-stockholm-se/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E-2336 2.9GHz 6 cores",
@@ -11142,6 +11022,26 @@
    "currency": "EUR",
    "price_usd": 202.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-budapest-hu/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 4244P 3.8GHz 6 cores",
+   "cpu": "AMD EPYC 4244P 3.8GHz 6 cores",
+   "cpu_cores": 6,
+   "cpu_threads": 12,
+   "cpu_benchmark": "",
+   "ram": "32 GB DDR5",
+   "ram_gb": 32,
+   "storage": "1 TB (HDD SATA)",
+   "storage_gb": 1000,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Dublin, IE",
+   "country": "Ireland",
+   "country_code": "IE",
+   "price_monthly": 172,
+   "currency": "EUR",
+   "price_usd": 202.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-dublin-ie/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon E5-2640 v3 2.6GHz 8 cores",
@@ -11262,26 +11162,6 @@
    "currency": "EUR",
    "price_usd": 202.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-9-3950x-35ghz-16-cores-montreal-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 4244P 3.8GHz 6 cores",
-   "cpu": "AMD EPYC 4244P 3.8GHz 6 cores",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
-   "cpu_benchmark": "",
-   "ram": "32 GB DDR5",
-   "ram_gb": 32,
-   "storage": "1 TB (HDD SATA)",
-   "storage_gb": 1000,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Dublin, IE",
-   "country": "Ireland",
-   "country_code": "IE",
-   "price_monthly": 172,
-   "currency": "EUR",
-   "price_usd": 202.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-dublin-ie/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E-2234 3.6GHz 4 cores",
@@ -11562,26 +11442,6 @@
    "currency": "EUR",
    "price_usd": 203.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4345p-3-80ghz-8-64gb-2048gb-paris-fr-d5c37f/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD Ryzen 3950X 64GB",
-   "cpu": "AMD Ryzen 3950X",
-   "cpu_cores": 16,
-   "cpu_threads": 32,
-   "cpu_benchmark": "",
-   "ram": "64GB DDR4",
-   "ram_gb": 64,
-   "storage": "2x1TB NVMe",
-   "storage_gb": 2000,
-   "nvme": true,
-   "bandwidth": "1 Gbps Unmetered",
-   "location": "New York, US",
-   "country": "United States",
-   "country_code": "US",
-   "price_monthly": 203,
-   "currency": "USD",
-   "price_usd": 203.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-3950x-64gb-new-york-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD Ryzen 3950X 64GB",
@@ -12395,6 +12255,26 @@
    "storage_gb": 240,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Madrid, ES",
+   "country": "Spain",
+   "country_code": "ES",
+   "price_monthly": 188,
+   "currency": "EUR",
+   "price_usd": 220.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-e-2488-32ghz-8-cores-madrid-es/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "Intel Xeon E-2488 3.2GHz 8 cores",
+   "cpu": "Intel Xeon E-2488 3.2GHz 8 cores",
+   "cpu_cores": 8,
+   "cpu_threads": 16,
+   "cpu_benchmark": "",
+   "ram": "16 GB DDR5",
+   "ram_gb": 16,
+   "storage": "240 GB (SSD SATA)",
+   "storage_gb": 240,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
    "location": "Prague, CZ",
    "country": "Czechia (Czech Republic)",
    "country_code": "CZ",
@@ -12482,26 +12362,6 @@
    "currency": "EUR",
    "price_usd": 220.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2488-32ghz-8-cores-rome-it/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon E-2488 3.2GHz 8 cores",
-   "cpu": "Intel Xeon E-2488 3.2GHz 8 cores",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
-   "cpu_benchmark": "",
-   "ram": "16 GB DDR5",
-   "ram_gb": 16,
-   "storage": "240 GB (SSD SATA)",
-   "storage_gb": 240,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Madrid, ES",
-   "country": "Spain",
-   "country_code": "ES",
-   "price_monthly": 188,
-   "currency": "EUR",
-   "price_usd": 220.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e-2488-32ghz-8-cores-madrid-es/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E-2488 3.2GHz 8 cores",
@@ -14895,26 +14755,6 @@
    "storage_gb": 56000,
    "nvme": false,
    "bandwidth": "Unmetered @ 3 Gbps",
-   "location": "Strasbourg, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 240,
-   "currency": "EUR",
-   "price_usd": 281.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-7-pro-3700-36ghz-8-cores-strasbourg-fr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD Ryzen 7 Pro 3700 3.6GHz 8 cores",
-   "cpu": "AMD Ryzen 7 Pro 3700 3.6GHz 8 cores",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
-   "cpu_benchmark": "",
-   "ram": "32 GB DDR4 ECC",
-   "ram_gb": 32,
-   "storage": "4x 14 TB (SAS SoftRAID)",
-   "storage_gb": 56000,
-   "nvme": false,
-   "bandwidth": "Unmetered @ 3 Gbps",
    "location": "Roubaix, FR",
    "country": "France",
    "country_code": "FR",
@@ -15206,11 +15046,11 @@
   {
    "name": "AMD Epyc 7402 2.8GHz 24 cores",
    "cpu": "AMD Epyc 7402 2.8GHz 24 cores",
-   "cpu_cores": "",
-   "cpu_threads": "",
+   "cpu_cores": 24,
+   "cpu_threads": 48,
    "cpu_benchmark": "",
    "ram": "128 GB DDR4 ECC",
-   "ram_gb": "",
+   "ram_gb": 128,
    "storage": "noraid-0-24rise07-v1",
    "storage_gb": "",
    "nvme": false,
@@ -16204,24 +16044,24 @@
    "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-singapore-sg-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "Intel Xeon E-2236 3.4GHz 6 cores",
-   "cpu": "Intel Xeon E-2236 3.4GHz 6 cores",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
+   "name": "Intel Xeon E-2288G 3.7GHz 8 cores",
+   "cpu": "Intel Xeon E-2288G 3.7GHz 8 cores",
+   "cpu_cores": 8,
+   "cpu_threads": 16,
    "cpu_benchmark": "",
-   "ram": "16 GB DDR4",
-   "ram_gb": 16,
+   "ram": "32 GB DDR4",
+   "ram_gb": 32,
    "storage": "1 TB (HDD SATA)",
    "storage_gb": 1000,
    "nvme": false,
-   "bandwidth": "25 TB @ 1 Gbps",
-   "location": "Porto, PT",
-   "country": "Portugal",
-   "country_code": "PT",
+   "bandwidth": "20 TB @ 1 Gbps",
+   "location": "Luxembourg, LU",
+   "country": "Luxembourg",
+   "country_code": "LU",
    "price_monthly": 263,
    "currency": "EUR",
    "price_usd": 308.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e-2236-34ghz-6-cores-porto-pt/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/intel-xeon-e-2288g-37ghz-8-cores-luxembourg-lu/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E5-2630 v4 2.2GHz 10 cores",
@@ -16244,24 +16084,24 @@
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2630-v4-22ghz-10-cores-bratislava-sk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "Intel Xeon E-2288G 3.7GHz 8 cores",
-   "cpu": "Intel Xeon E-2288G 3.7GHz 8 cores",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
+   "name": "Intel Xeon E-2236 3.4GHz 6 cores",
+   "cpu": "Intel Xeon E-2236 3.4GHz 6 cores",
+   "cpu_cores": 6,
+   "cpu_threads": 12,
    "cpu_benchmark": "",
-   "ram": "32 GB DDR4",
-   "ram_gb": 32,
+   "ram": "16 GB DDR4",
+   "ram_gb": 16,
    "storage": "1 TB (HDD SATA)",
    "storage_gb": 1000,
    "nvme": false,
-   "bandwidth": "20 TB @ 1 Gbps",
-   "location": "Luxembourg, LU",
-   "country": "Luxembourg",
-   "country_code": "LU",
+   "bandwidth": "25 TB @ 1 Gbps",
+   "location": "Porto, PT",
+   "country": "Portugal",
+   "country_code": "PT",
    "price_monthly": 263,
    "currency": "EUR",
    "price_usd": 308.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e-2288g-37ghz-8-cores-luxembourg-lu/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/intel-xeon-e-2236-34ghz-6-cores-porto-pt/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E-2236 3.4GHz 6 cores",
@@ -16484,6 +16324,26 @@
    "url": "https://valebyte.com/en/servers/amd-epyc-4464p-37ghz-16-cores-mumbai-in-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
+   "name": "Intel Xeon E-2488 3.2GHz 8 cores",
+   "cpu": "Intel Xeon E-2488 3.2GHz 8 cores",
+   "cpu_cores": 8,
+   "cpu_threads": 16,
+   "cpu_benchmark": "",
+   "ram": "16 GB DDR5",
+   "ram_gb": 16,
+   "storage": "240 GB (SSD SATA)",
+   "storage_gb": 240,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Hong Kong, HK",
+   "country": "Hong Kong",
+   "country_code": "HK",
+   "price_monthly": 268,
+   "currency": "EUR",
+   "price_usd": 314.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-e-2488-32ghz-8-cores-hong-kong-hk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
    "name": "AMD EPYC 4464P 3.7GHz 16 cores",
    "cpu": "AMD EPYC 4464P 3.7GHz 16 cores",
    "cpu_cores": 12,
@@ -16522,26 +16382,6 @@
    "currency": "EUR",
    "price_usd": 314.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4464p-37ghz-16-cores-singapore-sg-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon E-2488 3.2GHz 8 cores",
-   "cpu": "Intel Xeon E-2488 3.2GHz 8 cores",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
-   "cpu_benchmark": "",
-   "ram": "16 GB DDR5",
-   "ram_gb": 16,
-   "storage": "240 GB (SSD SATA)",
-   "storage_gb": 240,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Hong Kong, HK",
-   "country": "Hong Kong",
-   "country_code": "HK",
-   "price_monthly": 269,
-   "currency": "EUR",
-   "price_usd": 315.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e-2488-32ghz-8-cores-hong-kong-hk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon E5-2640 v4 2.4GHz 10 cores",
@@ -16744,6 +16584,26 @@
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2680-v4-24ghz-14-cores-novi-travnik-ba/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
+   "name": "AMD Ryzen 7 9700X 3.8GHz 8 cores",
+   "cpu": "AMD Ryzen 7 9700X 3.8GHz 8 cores",
+   "cpu_cores": 8,
+   "cpu_threads": 16,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR5",
+   "ram_gb": 64,
+   "storage": "2x 960 GB (SSD NVMe)",
+   "storage_gb": 1920,
+   "nvme": true,
+   "bandwidth": "10 TB @ 1 Gbps",
+   "location": "Mumbai, IN",
+   "country": "India",
+   "country_code": "IN",
+   "price_monthly": 275,
+   "currency": "EUR",
+   "price_usd": 322.0,
+   "url": "https://valebyte.com/en/servers/amd-ryzen-7-9700x-38ghz-8-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
    "name": "AMD Ryzen 9 7900 3.7GHz 12 cores",
    "cpu": "AMD Ryzen 9 7900 3.7GHz 12 cores",
    "cpu_cores": 12,
@@ -16802,26 +16662,6 @@
    "currency": "EUR",
    "price_usd": 323.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-9-7900-37ghz-12-cores-zurich-ch-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD Ryzen 7 9700X 3.8GHz 8 cores",
-   "cpu": "AMD Ryzen 7 9700X 3.8GHz 8 cores",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR5",
-   "ram_gb": 64,
-   "storage": "2x 960 GB (SSD NVMe)",
-   "storage_gb": 1920,
-   "nvme": true,
-   "bandwidth": "10 TB @ 1 Gbps",
-   "location": "Mumbai, IN",
-   "country": "India",
-   "country_code": "IN",
-   "price_monthly": 276,
-   "currency": "EUR",
-   "price_usd": 323.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-7-9700x-38ghz-8-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD Ryzen 9 7900 3.7GHz 12 cores",
@@ -17575,46 +17415,6 @@
    "storage_gb": 480,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Stockholm, SE",
-   "country": "Sweden",
-   "country_code": "SE",
-   "price_monthly": 288,
-   "currency": "EUR",
-   "price_usd": 337.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-stockholm-se/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
-   "cpu": "AMD EPYC 4584PX 4.2GHz 16 cores",
-   "cpu_cores": 16,
-   "cpu_threads": 32,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR5",
-   "ram_gb": 64,
-   "storage": "2x 240 GB (SSD SATA)",
-   "storage_gb": 480,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Milan, IT",
-   "country": "Italy",
-   "country_code": "IT",
-   "price_monthly": 288,
-   "currency": "EUR",
-   "price_usd": 337.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-milan-it/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
-   "cpu": "AMD EPYC 4584PX 4.2GHz 16 cores",
-   "cpu_cores": 16,
-   "cpu_threads": 32,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR5",
-   "ram_gb": 64,
-   "storage": "2x 240 GB (SSD SATA)",
-   "storage_gb": 480,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
    "location": "Bucharest, RO",
    "country": "Romania",
    "country_code": "RO",
@@ -17622,6 +17422,26 @@
    "currency": "EUR",
    "price_usd": 337.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-bucharest-ro-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
+   "cpu": "AMD EPYC 4584PX 4.2GHz 16 cores",
+   "cpu_cores": 16,
+   "cpu_threads": 32,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR5",
+   "ram_gb": 64,
+   "storage": "2x 240 GB (SSD SATA)",
+   "storage_gb": 480,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Prague, CZ",
+   "country": "Czechia (Czech Republic)",
+   "country_code": "CZ",
+   "price_monthly": 288,
+   "currency": "EUR",
+   "price_usd": 337.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-prague-cz/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
@@ -17655,13 +17475,33 @@
    "storage_gb": 480,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Prague, CZ",
-   "country": "Czechia (Czech Republic)",
-   "country_code": "CZ",
+   "location": "Milan, IT",
+   "country": "Italy",
+   "country_code": "IT",
    "price_monthly": 288,
    "currency": "EUR",
    "price_usd": 337.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-prague-cz/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-milan-it/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
+   "cpu": "AMD EPYC 4584PX 4.2GHz 16 cores",
+   "cpu_cores": 16,
+   "cpu_threads": 32,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR5",
+   "ram_gb": 64,
+   "storage": "2x 240 GB (SSD SATA)",
+   "storage_gb": 480,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Stockholm, SE",
+   "country": "Sweden",
+   "country_code": "SE",
+   "price_monthly": 288,
+   "currency": "EUR",
+   "price_usd": 337.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-stockholm-se/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4545P 3.00GHz 16 cores",
@@ -17995,6 +17835,26 @@
    "storage_gb": 44000,
    "nvme": false,
    "bandwidth": "Unmetered @ 3 Gbps",
+   "location": "London, GB",
+   "country": "London",
+   "country_code": "",
+   "price_monthly": 291,
+   "currency": "EUR",
+   "price_usd": 341.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4344p-38ghz-8-cores-london-gb-3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 4344P 3.8GHz 8 cores",
+   "cpu": "AMD EPYC 4344P 3.8GHz 8 cores",
+   "cpu_cores": 8,
+   "cpu_threads": 16,
+   "cpu_benchmark": "",
+   "ram": "32 GB DDR5 ECC",
+   "ram_gb": 32,
+   "storage": "2x 22 TB (SAS HardRAID)",
+   "storage_gb": 44000,
+   "nvme": false,
+   "bandwidth": "Unmetered @ 3 Gbps",
    "location": "Beauharnois, CA",
    "country": "Canada",
    "country_code": "CA",
@@ -18002,6 +17862,26 @@
    "currency": "EUR",
    "price_usd": 341.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4344p-38ghz-8-cores-beauharnois-ca-3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 7232P",
+   "cpu": "AMD EPYC 7232P, 8C/16T @ 3.1GHz",
+   "cpu_cores": 8,
+   "cpu_threads": 16,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR4",
+   "ram_gb": 64,
+   "storage": "2x953GB (NVME)",
+   "storage_gb": 1906,
+   "nvme": true,
+   "bandwidth": "Unmetered @ 1 Gbps",
+   "location": "Warsaw, PL",
+   "country": "Poland",
+   "country_code": "PL",
+   "price_monthly": 292,
+   "currency": "EUR",
+   "price_usd": 342.0,
+   "url": "https://valebyte.com/en/servers/scaleway-em-b220e-nvme-warsaw-pl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon E-2434 3.4GHz 4 cores",
@@ -18018,9 +17898,9 @@
    "location": "Toronto, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 293,
+   "price_monthly": 292,
    "currency": "EUR",
-   "price_usd": 343.0,
+   "price_usd": 342.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2434-34ghz-4-cores-toronto-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -18038,9 +17918,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 293,
+   "price_monthly": 292,
    "currency": "EUR",
-   "price_usd": 343.0,
+   "price_usd": 342.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4344p-38ghz-8-cores-singapore-sg-5/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -18058,9 +17938,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 293,
+   "price_monthly": 292,
    "currency": "EUR",
-   "price_usd": 343.0,
+   "price_usd": 342.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4344p-38ghz-8-cores-mumbai-in-5/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -18078,9 +17958,9 @@
    "location": "Sydney, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 293,
+   "price_monthly": 292,
    "currency": "EUR",
-   "price_usd": 343.0,
+   "price_usd": 342.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4344p-38ghz-8-cores-sydney-au/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -18098,9 +17978,9 @@
    "location": "Johannesburg, ZA",
    "country": "South Africa",
    "country_code": "ZA",
-   "price_monthly": 293,
+   "price_monthly": 292,
    "currency": "EUR",
-   "price_usd": 343.0,
+   "price_usd": 342.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-silver-4310-21ghz-12-cores-johannesburg-za/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -18118,9 +17998,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 293,
+   "price_monthly": 292,
    "currency": "EUR",
-   "price_usd": 343.0,
+   "price_usd": 342.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-7-pro-3700-36ghz-8-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -18138,9 +18018,9 @@
    "location": "Vancouver, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 293,
+   "price_monthly": 292,
    "currency": "EUR",
-   "price_usd": 343.0,
+   "price_usd": 342.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-gold-6210u-25ghz-20-cores-vancouver-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -18158,9 +18038,9 @@
    "location": "Ho Chi Minh City, VN",
    "country": "Vietnam",
    "country_code": "VN",
-   "price_monthly": 293,
+   "price_monthly": 292,
    "currency": "EUR",
-   "price_usd": 343.0,
+   "price_usd": 342.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2680-27ghz-8-cores-ho-chi-minh-city-vn/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -18178,9 +18058,9 @@
    "location": "Hanoi, VN",
    "country": "Vietnam",
    "country_code": "VN",
-   "price_monthly": 293,
+   "price_monthly": 292,
    "currency": "EUR",
-   "price_usd": 343.0,
+   "price_usd": 342.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2680-27ghz-8-cores-hanoi-vn/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -18935,26 +18815,6 @@
    "storage_gb": 12000,
    "nvme": false,
    "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Warsaw, PL",
-   "country": "Poland",
-   "country_code": "PL",
-   "price_monthly": 305,
-   "currency": "EUR",
-   "price_usd": 357.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-gold-6312u-24ghz-24-cores-warsaw-pl-3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon Gold 6312U 2.4GHz 24 cores",
-   "cpu": "Intel Xeon Gold 6312U 2.4GHz 24 cores",
-   "cpu_cores": 24,
-   "cpu_threads": 48,
-   "cpu_benchmark": "",
-   "ram": "256 GB DDR4 ECC",
-   "ram_gb": 256,
-   "storage": "2x 6 TB (SATA SoftRAID)",
-   "storage_gb": 12000,
-   "nvme": false,
-   "bandwidth": "Unmetered @ 1 Gbps",
    "location": "London, GB",
    "country": "London",
    "country_code": "",
@@ -18982,6 +18842,26 @@
    "currency": "EUR",
    "price_usd": 357.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-gold-6312u-24ghz-24-cores-strasbourg-fr-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "Intel Xeon Gold 6312U 2.4GHz 24 cores",
+   "cpu": "Intel Xeon Gold 6312U 2.4GHz 24 cores",
+   "cpu_cores": 24,
+   "cpu_threads": 48,
+   "cpu_benchmark": "",
+   "ram": "256 GB DDR4 ECC",
+   "ram_gb": 256,
+   "storage": "2x 6 TB (SATA SoftRAID)",
+   "storage_gb": 12000,
+   "nvme": false,
+   "bandwidth": "Unmetered @ 1 Gbps",
+   "location": "Warsaw, PL",
+   "country": "Poland",
+   "country_code": "PL",
+   "price_monthly": 305,
+   "currency": "EUR",
+   "price_usd": 357.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-gold-6312u-24ghz-24-cores-warsaw-pl-3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon Gold 6312U 2.4GHz 24 cores",
@@ -19102,46 +18982,6 @@
    "currency": "USD",
    "price_usd": 359.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4545p-128gb-nl-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD Epyc 4545P 128GB",
-   "cpu": "AMD Epyc 4545P",
-   "cpu_cores": 16,
-   "cpu_threads": 32,
-   "cpu_benchmark": "",
-   "ram": "128GB DDR5",
-   "ram_gb": 128,
-   "storage": "2TB NVMe",
-   "storage_gb": 2000,
-   "nvme": true,
-   "bandwidth": "1 Gbps Unmetered",
-   "location": "New York, US",
-   "country": "United States",
-   "country_code": "US",
-   "price_monthly": 359,
-   "currency": "USD",
-   "price_usd": 359.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4545p-128gb-new-york-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD Epyc 4545P 128GB",
-   "cpu": "AMD Epyc 4545P",
-   "cpu_cores": 16,
-   "cpu_threads": 32,
-   "cpu_benchmark": "",
-   "ram": "128GB DDR5",
-   "ram_gb": 128,
-   "storage": "2TB NVMe",
-   "storage_gb": 2000,
-   "nvme": true,
-   "bandwidth": "1 Gbps Unmetered",
-   "location": "Miami, US",
-   "country": "United States",
-   "country_code": "US",
-   "price_monthly": 359,
-   "currency": "USD",
-   "price_usd": 359.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4545p-128gb-miami-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "8 TB",
@@ -19295,13 +19135,13 @@
    "storage_gb": 480,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Bucharest, RO",
-   "country": "Romania",
-   "country_code": "RO",
+   "location": "Prague, CZ",
+   "country": "Czechia (Czech Republic)",
+   "country_code": "CZ",
    "price_monthly": 312,
    "currency": "EUR",
    "price_usd": 365.0,
-   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4510-24ghz-12-cores-bucharest-ro/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4510-24ghz-12-cores-prague-cz/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Silver 4510 2.4GHz 12 cores",
@@ -19315,13 +19155,13 @@
    "storage_gb": 480,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Prague, CZ",
-   "country": "Czechia (Czech Republic)",
-   "country_code": "CZ",
+   "location": "Bucharest, RO",
+   "country": "Romania",
+   "country_code": "RO",
    "price_monthly": 312,
    "currency": "EUR",
    "price_usd": 365.0,
-   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4510-24ghz-12-cores-prague-cz/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4510-24ghz-12-cores-bucharest-ro/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4344P 3.8GHz 8 cores",
@@ -19698,9 +19538,9 @@
    "location": "Hanoi, VN",
    "country": "Vietnam",
    "country_code": "VN",
-   "price_monthly": 316,
+   "price_monthly": 315,
    "currency": "EUR",
-   "price_usd": 370.0,
+   "price_usd": 369.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2683-v3-2ghz-14-cores-hanoi-vn/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -19718,9 +19558,9 @@
    "location": "Ho Chi Minh City, VN",
    "country": "Vietnam",
    "country_code": "VN",
-   "price_monthly": 316,
+   "price_monthly": 315,
    "currency": "EUR",
-   "price_usd": 370.0,
+   "price_usd": 369.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2683-v3-2ghz-14-cores-ho-chi-minh-city-vn/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -19784,26 +19624,6 @@
    "url": "https://valebyte.com/en/servers/intel-xeon-gold-6312u-24ghz-24-cores-warsaw-pl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "Intel Xeon Gold 6312U 2.4GHz 24 cores",
-   "cpu": "Intel Xeon Gold 6312U 2.4GHz 24 cores",
-   "cpu_cores": 24,
-   "cpu_threads": 48,
-   "cpu_benchmark": "",
-   "ram": "128 GB DDR4",
-   "ram_gb": 128,
-   "storage": "2x 960 GB (SSD NVMe)",
-   "storage_gb": 1920,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Lille, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 318,
-   "currency": "EUR",
-   "price_usd": 373.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-gold-6312u-24ghz-24-cores-lille-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "[Dual] Intel Xeon E5-2690 v3 2.6GHz 12 cores",
    "cpu": "[Dual] Intel Xeon E5-2690 v3 2.6GHz 12 cores",
    "cpu_cores": 12,
@@ -19822,6 +19642,26 @@
    "currency": "EUR",
    "price_usd": 373.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2690-v3-26ghz-12-cores-belfast-ie/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "Intel Xeon Gold 6312U 2.4GHz 24 cores",
+   "cpu": "Intel Xeon Gold 6312U 2.4GHz 24 cores",
+   "cpu_cores": 24,
+   "cpu_threads": 48,
+   "cpu_benchmark": "",
+   "ram": "128 GB DDR4",
+   "ram_gb": 128,
+   "storage": "2x 960 GB (SSD NVMe)",
+   "storage_gb": 1920,
+   "nvme": true,
+   "bandwidth": "Unmetered @ 1 Gbps",
+   "location": "Lille, FR",
+   "country": "France",
+   "country_code": "FR",
+   "price_monthly": 318,
+   "currency": "EUR",
+   "price_usd": 373.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-gold-6312u-24ghz-24-cores-lille-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
@@ -19855,13 +19695,13 @@
    "storage_gb": 1920,
    "nvme": true,
    "bandwidth": "Unmetered @ 3 Gbps",
-   "location": "Gravelines, FR",
+   "location": "Roubaix, FR",
    "country": "France",
    "country_code": "FR",
    "price_monthly": 320,
    "currency": "EUR",
    "price_usd": 375.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-gravelines-fr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-roubaix-fr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
@@ -19875,13 +19715,13 @@
    "storage_gb": 1920,
    "nvme": true,
    "bandwidth": "Unmetered @ 3 Gbps",
-   "location": "Roubaix, FR",
+   "location": "Gravelines, FR",
    "country": "France",
    "country_code": "FR",
    "price_monthly": 320,
    "currency": "EUR",
    "price_usd": 375.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-roubaix-fr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-gravelines-fr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
@@ -20544,26 +20384,6 @@
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4210-22ghz-10-cores-copenhagen-dk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "AMD EPYC 8024P",
-   "cpu": "AMD EPYC 8024P, 8C/16T @ 2.4GHz",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR5",
-   "ram_gb": 64,
-   "storage": "2x894GB (NVME)",
-   "storage_gb": 1788,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Paris, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 325,
-   "currency": "EUR",
-   "price_usd": 381.0,
-   "url": "https://valebyte.com/en/servers/scaleway-em-i120e-nvme-paris-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "Intel Xeon E-2276G 3.8GHz 6 cores",
    "cpu": "Intel Xeon E-2276G 3.8GHz 6 cores",
    "cpu_cores": 6,
@@ -20624,6 +20444,66 @@
    "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-helsinki-fi/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
+   "name": "Intel Xeon E5-2450 2.1GHz 8 cores",
+   "cpu": "Intel Xeon E5-2450 2.1GHz 8 cores",
+   "cpu_cores": 8,
+   "cpu_threads": 16,
+   "cpu_benchmark": "",
+   "ram": "32 GB DDR3",
+   "ram_gb": 32,
+   "storage": "4x 900 GB (HDD SAS)",
+   "storage_gb": 3600,
+   "nvme": false,
+   "bandwidth": "Unmetered @ 50 Mbps",
+   "location": "Casablanca, MA",
+   "country": "Morocco",
+   "country_code": "MA",
+   "price_monthly": 331,
+   "currency": "EUR",
+   "price_usd": 388.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-e5-2450-21ghz-8-cores-casablanca-ma-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "Intel Xeon E5-2450 2.1GHz 8 cores",
+   "cpu": "Intel Xeon E5-2450 2.1GHz 8 cores",
+   "cpu_cores": 8,
+   "cpu_threads": 16,
+   "cpu_benchmark": "",
+   "ram": "32 GB DDR3",
+   "ram_gb": 32,
+   "storage": "4x 900 GB (HDD SAS)",
+   "storage_gb": 3600,
+   "nvme": false,
+   "bandwidth": "Unmetered @ 50 Mbps",
+   "location": "Fez, MA",
+   "country": "Morocco",
+   "country_code": "MA",
+   "price_monthly": 331,
+   "currency": "EUR",
+   "price_usd": 388.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-e5-2450-21ghz-8-cores-fez-ma-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "Intel Xeon E3-1270 v5 3.6GHz 4 cores",
+   "cpu": "Intel Xeon E3-1270 v5 3.6GHz 4 cores",
+   "cpu_cores": 4,
+   "cpu_threads": 8,
+   "cpu_benchmark": "",
+   "ram": "16 GB DDR4",
+   "ram_gb": 16,
+   "storage": "2x 250 GB (SSD SATA)",
+   "storage_gb": 500,
+   "nvme": false,
+   "bandwidth": "10 TB @ 1 Gbps",
+   "location": "Istanbul, TR",
+   "country": "Turkey",
+   "country_code": "TR",
+   "price_monthly": 331,
+   "currency": "EUR",
+   "price_usd": 388.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-e3-1270-v5-36ghz-4-cores-istanbul-tr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
    "name": "Intel Xeon E5 2670v2 2.60GHz 2x 20 cores",
    "cpu": "Intel Xeon E5 2670v2 2.60GHz 2x 20 cores",
    "cpu_cores": 20,
@@ -20662,66 +20542,6 @@
    "currency": "EUR",
    "price_usd": 389.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2660v3-2-60ghz-2x-20-192gb-30000gb-paris-fr-6ad157/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon E5-2450 2.1GHz 8 cores",
-   "cpu": "Intel Xeon E5-2450 2.1GHz 8 cores",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
-   "cpu_benchmark": "",
-   "ram": "32 GB DDR3",
-   "ram_gb": 32,
-   "storage": "4x 900 GB (HDD SAS)",
-   "storage_gb": 3600,
-   "nvme": false,
-   "bandwidth": "Unmetered @ 50 Mbps",
-   "location": "Casablanca, MA",
-   "country": "Morocco",
-   "country_code": "MA",
-   "price_monthly": 332,
-   "currency": "EUR",
-   "price_usd": 389.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e5-2450-21ghz-8-cores-casablanca-ma-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon E5-2450 2.1GHz 8 cores",
-   "cpu": "Intel Xeon E5-2450 2.1GHz 8 cores",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
-   "cpu_benchmark": "",
-   "ram": "32 GB DDR3",
-   "ram_gb": 32,
-   "storage": "4x 900 GB (HDD SAS)",
-   "storage_gb": 3600,
-   "nvme": false,
-   "bandwidth": "Unmetered @ 50 Mbps",
-   "location": "Fez, MA",
-   "country": "Morocco",
-   "country_code": "MA",
-   "price_monthly": 332,
-   "currency": "EUR",
-   "price_usd": 389.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e5-2450-21ghz-8-cores-fez-ma-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon E3-1270 v5 3.6GHz 4 cores",
-   "cpu": "Intel Xeon E3-1270 v5 3.6GHz 4 cores",
-   "cpu_cores": 4,
-   "cpu_threads": 8,
-   "cpu_benchmark": "",
-   "ram": "16 GB DDR4",
-   "ram_gb": 16,
-   "storage": "2x 250 GB (SSD SATA)",
-   "storage_gb": 500,
-   "nvme": false,
-   "bandwidth": "10 TB @ 1 Gbps",
-   "location": "Istanbul, TR",
-   "country": "Turkey",
-   "country_code": "TR",
-   "price_monthly": 332,
-   "currency": "EUR",
-   "price_usd": 389.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e3-1270-v5-36ghz-4-cores-istanbul-tr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD Opteron 4386 3.10GHz 8 cores",
@@ -21195,13 +21015,13 @@
    "storage_gb": 8000,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Madrid, ES",
-   "country": "Spain",
-   "country_code": "ES",
+   "location": "Stockholm, SE",
+   "country": "Sweden",
+   "country_code": "SE",
    "price_monthly": 348,
    "currency": "EUR",
    "price_usd": 408.0,
-   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4210-22ghz-10-cores-madrid-es/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4210-22ghz-10-cores-stockholm-se/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
@@ -21215,13 +21035,13 @@
    "storage_gb": 8000,
    "nvme": false,
    "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Milan, IT",
-   "country": "Italy",
-   "country_code": "IT",
+   "location": "Madrid, ES",
+   "country": "Spain",
+   "country_code": "ES",
    "price_monthly": 348,
    "currency": "EUR",
    "price_usd": 408.0,
-   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4210-22ghz-10-cores-milan-it/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4210-22ghz-10-cores-madrid-es/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Silver 4116 2.1GHz 12 cores",
@@ -21242,6 +21062,26 @@
    "currency": "EUR",
    "price_usd": 408.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4116-21ghz-12-cores-amsterdam-nl-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
+   "cpu": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
+   "cpu_cores": 10,
+   "cpu_threads": 20,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR4",
+   "ram_gb": 64,
+   "storage": "2x 4 TB (HDD SATA)",
+   "storage_gb": 8000,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Milan, IT",
+   "country": "Italy",
+   "country_code": "IT",
+   "price_monthly": 348,
+   "currency": "EUR",
+   "price_usd": 408.0,
+   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4210-22ghz-10-cores-milan-it/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
@@ -21284,24 +21124,24 @@
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4210-22ghz-10-cores-brussels-be/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
-   "cpu": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
-   "cpu_cores": 10,
-   "cpu_threads": 20,
+   "name": "Intel Xeon E-2276G 3.8GHz 6 cores",
+   "cpu": "Intel Xeon E-2276G 3.8GHz 6 cores",
+   "cpu_cores": 6,
+   "cpu_threads": 12,
    "cpu_benchmark": "",
    "ram": "64 GB DDR4",
    "ram_gb": 64,
-   "storage": "2x 4 TB (HDD SATA)",
-   "storage_gb": 8000,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Stockholm, SE",
-   "country": "Sweden",
-   "country_code": "SE",
+   "storage": "2x 1 TB (SSD NVMe)",
+   "storage_gb": 2000,
+   "nvme": true,
+   "bandwidth": "Unmetered @ 1 Gbps",
+   "location": "Riga, LV",
+   "country": "Latvia",
+   "country_code": "LV",
    "price_monthly": 348,
    "currency": "EUR",
    "price_usd": 408.0,
-   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4210-22ghz-10-cores-stockholm-se/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/intel-xeon-e-2276g-38ghz-6-cores-riga-lv/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
@@ -21342,26 +21182,6 @@
    "currency": "EUR",
    "price_usd": 408.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4210-22ghz-10-cores-prague-cz/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon E-2276G 3.8GHz 6 cores",
-   "cpu": "Intel Xeon E-2276G 3.8GHz 6 cores",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR4",
-   "ram_gb": 64,
-   "storage": "2x 1 TB (SSD NVMe)",
-   "storage_gb": 2000,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Riga, LV",
-   "country": "Latvia",
-   "country_code": "LV",
-   "price_monthly": 348,
-   "currency": "EUR",
-   "price_usd": 408.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-e-2276g-38ghz-6-cores-riga-lv/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
@@ -21638,9 +21458,9 @@
    "location": "Sao Paulo, BR",
    "country": "Brazil",
    "country_code": "BR",
-   "price_monthly": 356,
+   "price_monthly": 355,
    "currency": "EUR",
-   "price_usd": 417.0,
+   "price_usd": 416.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2680-v4-24ghz-14-cores-sao-paulo-br-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -21658,9 +21478,9 @@
    "location": "Bogota, CO",
    "country": "Colombia",
    "country_code": "CO",
-   "price_monthly": 356,
+   "price_monthly": 355,
    "currency": "EUR",
-   "price_usd": 417.0,
+   "price_usd": 416.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2680-v4-24ghz-14-cores-bogota-co-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -21678,9 +21498,9 @@
    "location": "Sapporo, JP",
    "country": "Japan",
    "country_code": "JP",
-   "price_monthly": 356,
+   "price_monthly": 355,
    "currency": "EUR",
-   "price_usd": 417.0,
+   "price_usd": 416.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2224g-35ghz-4-cores-sapporo-jp/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -21698,9 +21518,9 @@
    "location": "Guadalajara, MX",
    "country": "Mexico",
    "country_code": "MX",
-   "price_monthly": 356,
+   "price_monthly": 355,
    "currency": "EUR",
-   "price_usd": 417.0,
+   "price_usd": 416.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2680-v4-24ghz-14-cores-guadalajara-mx-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -21718,9 +21538,9 @@
    "location": "Montreal, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 356,
+   "price_monthly": 355,
    "currency": "EUR",
-   "price_usd": 417.0,
+   "price_usd": 416.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4344p-38ghz-8-cores-montreal-ca-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -21764,26 +21584,6 @@
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2630-v3-24ghz-8-cores-luxembourg-lu/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "AMD EPYC 7401P 2.00GHz 24 cores",
-   "cpu": "AMD EPYC 7401P 2.00GHz 24 cores",
-   "cpu_cores": 24,
-   "cpu_threads": 48,
-   "cpu_benchmark": 26392,
-   "ram": "256 GB DDR4",
-   "ram_gb": 256,
-   "storage": "2 x 1 TB (NVMe SSD)",
-   "storage_gb": 2000,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Paris, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 360,
-   "currency": "EUR",
-   "price_usd": 422.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-7401p-2-00ghz-24-256gb-2000gb-paris-fr-203384/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "Intel Xeon E5 2660v4 2.00GHz 2x 28 cores",
    "cpu": "Intel Xeon E5 2660v4 2.00GHz 2x 28 cores",
    "cpu_cores": 28,
@@ -21802,6 +21602,26 @@
    "currency": "EUR",
    "price_usd": 422.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2660v4-2-00ghz-2x-28-256gb-4800gb-paris-fr-62fee2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 7401P 2.00GHz 24 cores",
+   "cpu": "AMD EPYC 7401P 2.00GHz 24 cores",
+   "cpu_cores": 24,
+   "cpu_threads": 48,
+   "cpu_benchmark": 26392,
+   "ram": "256 GB DDR4",
+   "ram_gb": 256,
+   "storage": "2 x 1 TB (NVMe SSD)",
+   "storage_gb": 2000,
+   "nvme": true,
+   "bandwidth": "Unmetered @ 1 Gbps",
+   "location": "Paris, FR",
+   "country": "France",
+   "country_code": "FR",
+   "price_monthly": 360,
+   "currency": "EUR",
+   "price_usd": 422.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-7401p-2-00ghz-24-256gb-2000gb-paris-fr-203384/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 7401P 2.00GHz 24 cores",
@@ -21898,9 +21718,9 @@
    "location": "Montreal, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 362,
+   "price_monthly": 361,
    "currency": "EUR",
-   "price_usd": 424.0,
+   "price_usd": 423.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-gold-6312u-24ghz-24-cores-montreal-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -21918,9 +21738,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 362,
+   "price_monthly": 361,
    "currency": "EUR",
-   "price_usd": 424.0,
+   "price_usd": 423.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4344p-38ghz-8-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -21938,9 +21758,9 @@
    "location": "Tunis, TN",
    "country": "Tunisia",
    "country_code": "TN",
-   "price_monthly": 362,
+   "price_monthly": 361,
    "currency": "EUR",
-   "price_usd": 424.0,
+   "price_usd": 423.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2620-v3-24ghz-6-cores-tunis-tn-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -21958,9 +21778,9 @@
    "location": "San Jose, CR",
    "country": "Costa Rica",
    "country_code": "CR",
-   "price_monthly": 362,
+   "price_monthly": 361,
    "currency": "EUR",
-   "price_usd": 424.0,
+   "price_usd": 423.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2146g-35ghz-6-cores-san-jose-cr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -21978,9 +21798,9 @@
    "location": "Tunis, TN",
    "country": "Tunisia",
    "country_code": "TN",
-   "price_monthly": 362,
+   "price_monthly": 361,
    "currency": "EUR",
-   "price_usd": 424.0,
+   "price_usd": 423.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2620-v4-2ghz-8-cores-tunis-tn-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -22044,26 +21864,6 @@
    "url": "https://valebyte.com/en/servers/scaleway-em-b320e-nvme-amsterdam-nl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "[Dual] Intel Xeon E5-2630 v4 2.2GHz 10 cores",
-   "cpu": "[Dual] Intel Xeon E5-2630 v4 2.2GHz 10 cores",
-   "cpu_cores": 10,
-   "cpu_threads": 20,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR4",
-   "ram_gb": 64,
-   "storage": "2x 3 TB (HDD SATA)",
-   "storage_gb": 6000,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Sao Paulo, BR",
-   "country": "Brazil",
-   "country_code": "BR",
-   "price_monthly": 366,
-   "currency": "EUR",
-   "price_usd": 429.0,
-   "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2630-v4-22ghz-10-cores-sao-paulo-br/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "Intel Xeon E-2456 3.3GHz 6 cores",
    "cpu": "Intel Xeon E-2456 3.3GHz 6 cores",
    "cpu_cores": 6,
@@ -22084,44 +21884,24 @@
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2456-33ghz-6-cores-dubai-ae/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "AMD EPYC 7232P",
-   "cpu": "AMD EPYC 7232P, 8C/16T @ 3.1GHz",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
+   "name": "[Dual] Intel Xeon E5-2630 v4 2.2GHz 10 cores",
+   "cpu": "[Dual] Intel Xeon E5-2630 v4 2.2GHz 10 cores",
+   "cpu_cores": 10,
+   "cpu_threads": 20,
    "cpu_benchmark": "",
-   "ram": "128 GB DDR4",
-   "ram_gb": 128,
-   "storage": "2x1.91TB (NVME)",
-   "storage_gb": 3820,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Paris, FR",
-   "country": "France",
-   "country_code": "FR",
+   "ram": "64 GB DDR4",
+   "ram_gb": 64,
+   "storage": "2x 3 TB (HDD SATA)",
+   "storage_gb": 6000,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Sao Paulo, BR",
+   "country": "Brazil",
+   "country_code": "BR",
    "price_monthly": 366,
    "currency": "EUR",
    "price_usd": 429.0,
-   "url": "https://valebyte.com/en/servers/scaleway-em-b320e-nvme-paris-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 7232P",
-   "cpu": "AMD EPYC 7232P, 8C/16T @ 3.1GHz",
-   "cpu_cores": 8,
-   "cpu_threads": 16,
-   "cpu_benchmark": "",
-   "ram": "128 GB DDR4",
-   "ram_gb": 128,
-   "storage": "2x1.91TB (NVME)",
-   "storage_gb": 3820,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Paris, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 366,
-   "currency": "EUR",
-   "price_usd": 429.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-7232p-paris-fr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2630-v4-22ghz-10-cores-sao-paulo-br/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4464P 3.7GHz 12 cores",
@@ -22184,6 +21964,26 @@
    "url": "https://valebyte.com/en/servers/amd-ryzen-9-9950x-43ghz-16-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
+   "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
+   "cpu": "AMD EPYC 4584PX 4.2GHz 16 cores",
+   "cpu_cores": 16,
+   "cpu_threads": 32,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR5",
+   "ram_gb": 64,
+   "storage": "2x 240 GB (SSD SATA)",
+   "storage_gb": 480,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Hong Kong, HK",
+   "country": "Hong Kong",
+   "country_code": "HK",
+   "price_monthly": 371,
+   "currency": "EUR",
+   "price_usd": 435.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-hong-kong-hk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
    "name": "[Dual] AMD EPYC 7532 2.4GHz 32 cores",
    "cpu": "[Dual] AMD EPYC 7532 2.4GHz 32 cores",
    "cpu_cores": 32,
@@ -22242,26 +22042,6 @@
    "currency": "EUR",
    "price_usd": 435.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2680-v4-24ghz-14-cores-novi-travnik-ba/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
-   "cpu": "AMD EPYC 4584PX 4.2GHz 16 cores",
-   "cpu_cores": 16,
-   "cpu_threads": 32,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR5",
-   "ram_gb": 64,
-   "storage": "2x 240 GB (SSD SATA)",
-   "storage_gb": 480,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Hong Kong, HK",
-   "country": "Hong Kong",
-   "country_code": "HK",
-   "price_monthly": 372,
-   "currency": "EUR",
-   "price_usd": 436.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-hong-kong-hk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Silver 4116 2.1GHz 12 cores",
@@ -22398,9 +22178,9 @@
    "location": "Sydney, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 378,
+   "price_monthly": 377,
    "currency": "EUR",
-   "price_usd": 443.0,
+   "price_usd": 442.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-9-7900-37ghz-12-cores-sydney-au/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -22418,9 +22198,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 379,
+   "price_monthly": 378,
    "currency": "EUR",
-   "price_usd": 444.0,
+   "price_usd": 443.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4116-21ghz-12-cores-singapore-sg-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -22438,9 +22218,9 @@
    "location": "Tokyo, JP",
    "country": "Japan",
    "country_code": "JP",
-   "price_monthly": 379,
+   "price_monthly": 378,
    "currency": "EUR",
-   "price_usd": 444.0,
+   "price_usd": 443.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4116-21ghz-12-cores-tokyo-jp/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -22458,9 +22238,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 379,
+   "price_monthly": 378,
    "currency": "EUR",
-   "price_usd": 444.0,
+   "price_usd": 443.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4344p-38ghz-8-cores-singapore-sg-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -22478,9 +22258,9 @@
    "location": "Tokyo, JP",
    "country": "Japan",
    "country_code": "JP",
-   "price_monthly": 379,
+   "price_monthly": 378,
    "currency": "EUR",
-   "price_usd": 444.0,
+   "price_usd": 443.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2630-v4-22ghz-10-cores-tokyo-jp/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -22498,9 +22278,9 @@
    "location": "Bangkok, TH",
    "country": "Thailand",
    "country_code": "TH",
-   "price_monthly": 379,
+   "price_monthly": 378,
    "currency": "EUR",
-   "price_usd": 444.0,
+   "price_usd": 443.0,
    "url": "https://valebyte.com/en/servers/intel-core-i9-14900k-32ghz-24-cores-bangkok-th/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -22535,26 +22315,6 @@
    "storage_gb": 960,
    "nvme": false,
    "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Manchester, UK",
-   "country": "UK",
-   "country_code": "UK",
-   "price_monthly": 384,
-   "currency": "EUR",
-   "price_usd": 450.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4245p-39ghz-6-cores-manchester-uk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 4245P 3.9GHz 6 cores",
-   "cpu": "AMD EPYC 4245P 3.9GHz 6 cores",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
-   "cpu_benchmark": "",
-   "ram": "32 GB DDR5",
-   "ram_gb": 32,
-   "storage": "2x 480 GB (SSD SATA)",
-   "storage_gb": 960,
-   "nvme": false,
-   "bandwidth": "Unmetered @ 1 Gbps",
    "location": "Zagreb, HR",
    "country": "Croatia",
    "country_code": "HR",
@@ -22575,13 +22335,13 @@
    "storage_gb": 960,
    "nvme": false,
    "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Sofia, BG",
-   "country": "Bulgaria",
-   "country_code": "BG",
+   "location": "Manchester, UK",
+   "country": "UK",
+   "country_code": "UK",
    "price_monthly": 384,
    "currency": "EUR",
    "price_usd": 450.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4245p-39ghz-6-cores-sofia-bg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-4245p-39ghz-6-cores-manchester-uk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4245P 3.9GHz 6 cores",
@@ -22602,6 +22362,26 @@
    "currency": "EUR",
    "price_usd": 450.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4245p-39ghz-6-cores-bratislava-sk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 4245P 3.9GHz 6 cores",
+   "cpu": "AMD EPYC 4245P 3.9GHz 6 cores",
+   "cpu_cores": 6,
+   "cpu_threads": 12,
+   "cpu_benchmark": "",
+   "ram": "32 GB DDR5",
+   "ram_gb": 32,
+   "storage": "2x 480 GB (SSD SATA)",
+   "storage_gb": 960,
+   "nvme": false,
+   "bandwidth": "Unmetered @ 1 Gbps",
+   "location": "Sofia, BG",
+   "country": "Bulgaria",
+   "country_code": "BG",
+   "price_monthly": 384,
+   "currency": "EUR",
+   "price_usd": 450.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4245p-39ghz-6-cores-sofia-bg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4245P 3.9GHz 6 cores",
@@ -22655,13 +22435,13 @@
    "storage_gb": 960,
    "nvme": false,
    "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Copenhagen, DK",
-   "country": "Denmark",
-   "country_code": "DK",
+   "location": "Bucharest, RO",
+   "country": "Romania",
+   "country_code": "RO",
    "price_monthly": 384,
    "currency": "EUR",
    "price_usd": 450.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4245p-39ghz-6-cores-copenhagen-dk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-4245p-39ghz-6-cores-bucharest-ro/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4245P 3.9GHz 6 cores",
@@ -22675,13 +22455,13 @@
    "storage_gb": 960,
    "nvme": false,
    "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Bucharest, RO",
-   "country": "Romania",
-   "country_code": "RO",
+   "location": "Copenhagen, DK",
+   "country": "Denmark",
+   "country_code": "DK",
    "price_monthly": 384,
    "currency": "EUR",
    "price_usd": 450.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4245p-39ghz-6-cores-bucharest-ro/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-4245p-39ghz-6-cores-copenhagen-dk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4245P 3.9GHz 6 cores",
@@ -22844,26 +22624,6 @@
    "url": "https://valebyte.com/en/servers/scaleway-em-b420e-nvme-warsaw-pl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "AMD EPYC 4244P 3.8GHz 6 cores",
-   "cpu": "AMD EPYC 4244P 3.8GHz 6 cores",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
-   "cpu_benchmark": "",
-   "ram": "32 GB DDR5",
-   "ram_gb": 32,
-   "storage": "1 TB (HDD SATA)",
-   "storage_gb": 1000,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Dubai, AE",
-   "country": "United Arab Emirates",
-   "country_code": "AE",
-   "price_monthly": 389,
-   "currency": "EUR",
-   "price_usd": 456.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-dubai-ae/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "AMD Ryzen 9 7900 3.7GHz 12 cores",
    "cpu": "AMD Ryzen 9 7900 3.7GHz 12 cores",
    "cpu_cores": 12,
@@ -22882,6 +22642,26 @@
    "currency": "EUR",
    "price_usd": 456.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-9-7900-37ghz-12-cores-sao-paulo-br/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 4244P 3.8GHz 6 cores",
+   "cpu": "AMD EPYC 4244P 3.8GHz 6 cores",
+   "cpu_cores": 6,
+   "cpu_threads": 12,
+   "cpu_benchmark": "",
+   "ram": "32 GB DDR5",
+   "ram_gb": 32,
+   "storage": "1 TB (HDD SATA)",
+   "storage_gb": 1000,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Dubai, AE",
+   "country": "United Arab Emirates",
+   "country_code": "AE",
+   "price_monthly": 389,
+   "currency": "EUR",
+   "price_usd": 456.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-dubai-ae/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD Ryzen 9 7900 3.7GHz 12 cores",
@@ -23075,6 +22855,26 @@
    "storage_gb": 1920,
    "nvme": true,
    "bandwidth": "Unmetered @ 3 Gbps",
+   "location": "Warsaw, PL",
+   "country": "Poland",
+   "country_code": "PL",
+   "price_monthly": 396,
+   "currency": "EUR",
+   "price_usd": 464.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-warsaw-pl-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
+   "cpu": "AMD EPYC 4584PX 4.2GHz 16 cores",
+   "cpu_cores": 16,
+   "cpu_threads": 32,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR5",
+   "ram_gb": 64,
+   "storage": "2x 960 GB (SSD NVMe)",
+   "storage_gb": 1920,
+   "nvme": true,
+   "bandwidth": "Unmetered @ 3 Gbps",
    "location": "Frankfurt, DE",
    "country": "Germany",
    "country_code": "DE",
@@ -23102,26 +22902,6 @@
    "currency": "EUR",
    "price_usd": 464.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-7443p-285ghz-24-cores-vilnius-lt/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
-   "cpu": "AMD EPYC 4584PX 4.2GHz 16 cores",
-   "cpu_cores": 16,
-   "cpu_threads": 32,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR5",
-   "ram_gb": 64,
-   "storage": "2x 960 GB (SSD NVMe)",
-   "storage_gb": 1920,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 3 Gbps",
-   "location": "Warsaw, PL",
-   "country": "Poland",
-   "country_code": "PL",
-   "price_monthly": 396,
-   "currency": "EUR",
-   "price_usd": 464.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-warsaw-pl-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 9124P",
@@ -23278,9 +23058,9 @@
    "location": "Santiago, CL",
    "country": "Chile",
    "country_code": "CL",
-   "price_monthly": 402,
+   "price_monthly": 401,
    "currency": "EUR",
-   "price_usd": 471.0,
+   "price_usd": 470.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-silver-4208-21ghz-8-cores-santiago-cl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -23298,9 +23078,9 @@
    "location": "Dubai, AE",
    "country": "United Arab Emirates",
    "country_code": "AE",
-   "price_monthly": 402,
+   "price_monthly": 401,
    "currency": "EUR",
-   "price_usd": 471.0,
+   "price_usd": 470.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2620-v4-2ghz-8-cores-dubai-ae/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -23404,26 +23184,6 @@
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2388g-32ghz-8-cores-seoul-kr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "AMD Ryzen 9900X 192GB",
-   "cpu": "AMD Ryzen 9900X",
-   "cpu_cores": "",
-   "cpu_threads": "",
-   "cpu_benchmark": "",
-   "ram": "192GB DDR5",
-   "ram_gb": 192,
-   "storage": "2x4TB NVMe",
-   "storage_gb": 8000,
-   "nvme": true,
-   "bandwidth": "1 Gbps Unmetered",
-   "location": "Miami, US",
-   "country": "United States",
-   "country_code": "US",
-   "price_monthly": 479,
-   "currency": "USD",
-   "price_usd": 479.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-9900x-192gb-miami-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "AMD Ryzen 7950X 192GB",
    "cpu": "AMD Ryzen 7950X",
    "cpu_cores": "",
@@ -23442,6 +23202,26 @@
    "currency": "USD",
    "price_usd": 479.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-7950x-192gb-los-angeles-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD Ryzen 9900X 192GB",
+   "cpu": "AMD Ryzen 9900X",
+   "cpu_cores": "",
+   "cpu_threads": "",
+   "cpu_benchmark": "",
+   "ram": "192GB DDR5",
+   "ram_gb": 192,
+   "storage": "2x4TB NVMe",
+   "storage_gb": 8000,
+   "nvme": true,
+   "bandwidth": "1 Gbps Unmetered",
+   "location": "Miami, US",
+   "country": "United States",
+   "country_code": "US",
+   "price_monthly": 479,
+   "currency": "USD",
+   "price_usd": 479.0,
+   "url": "https://valebyte.com/en/servers/amd-ryzen-9900x-192gb-miami-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Dual Proc AMD Epyc 7281 256 GB",
@@ -23764,6 +23544,26 @@
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4214r-24ghz-12-cores-amsterdam-nl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
+   "name": "[Dual] Intel Xeon E5-2680 v3 2.5GHz 12 cores",
+   "cpu": "[Dual] Intel Xeon E5-2680 v3 2.5GHz 12 cores",
+   "cpu_cores": 12,
+   "cpu_threads": 24,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR3",
+   "ram_gb": 64,
+   "storage": "240 GB (SSD SATA)",
+   "storage_gb": 240,
+   "nvme": false,
+   "bandwidth": "10 TB @ 100 Mbps",
+   "location": "San Jose, CR",
+   "country": "Costa Rica",
+   "country_code": "CR",
+   "price_monthly": 418,
+   "currency": "EUR",
+   "price_usd": 490.0,
+   "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2680-v3-25ghz-12-cores-san-jose-cr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
    "name": "Intel Xeon E-2246G 3.6GHz 6 cores",
    "cpu": "Intel Xeon E-2246G 3.6GHz 6 cores",
    "cpu_cores": 6,
@@ -23782,26 +23582,6 @@
    "currency": "EUR",
    "price_usd": 491.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2246g-36ghz-6-cores-sofia-bg-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "[Dual] Intel Xeon E5-2680 v3 2.5GHz 12 cores",
-   "cpu": "[Dual] Intel Xeon E5-2680 v3 2.5GHz 12 cores",
-   "cpu_cores": 12,
-   "cpu_threads": 24,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR3",
-   "ram_gb": 64,
-   "storage": "240 GB (SSD SATA)",
-   "storage_gb": 240,
-   "nvme": false,
-   "bandwidth": "10 TB @ 100 Mbps",
-   "location": "San Jose, CR",
-   "country": "Costa Rica",
-   "country_code": "CR",
-   "price_monthly": 419,
-   "currency": "EUR",
-   "price_usd": 491.0,
-   "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2680-v3-25ghz-12-cores-san-jose-cr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Gold 5122 3.6GHz 4 cores",
@@ -23842,6 +23622,26 @@
    "currency": "EUR",
    "price_usd": 492.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-5122-36ghz-4-cores-athens-gr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 8224P 2.55GHz 24 cores",
+   "cpu": "AMD EPYC 8224P 2.55GHz 24 cores",
+   "cpu_cores": 24,
+   "cpu_threads": 48,
+   "cpu_benchmark": "",
+   "ram": "96 GB DDR5 ECC",
+   "ram_gb": 96,
+   "storage": "2x 960 GB + 2x 3.84 TB (NVME Hybrid SoftRAID)",
+   "storage_gb": 9600,
+   "nvme": true,
+   "bandwidth": "Unmetered @ 3 Gbps",
+   "location": "London, GB",
+   "country": "London",
+   "country_code": "",
+   "price_monthly": 422,
+   "currency": "EUR",
+   "price_usd": 494.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-8224p-255ghz-24-cores-london-gb-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 8224P 2.55GHz 24 cores",
@@ -23955,26 +23755,6 @@
    "storage_gb": 9600,
    "nvme": true,
    "bandwidth": "Unmetered @ 3 Gbps",
-   "location": "London, GB",
-   "country": "London",
-   "country_code": "",
-   "price_monthly": 422,
-   "currency": "EUR",
-   "price_usd": 494.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-8224p-255ghz-24-cores-london-gb-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 8224P 2.55GHz 24 cores",
-   "cpu": "AMD EPYC 8224P 2.55GHz 24 cores",
-   "cpu_cores": 24,
-   "cpu_threads": 48,
-   "cpu_benchmark": "",
-   "ram": "96 GB DDR5 ECC",
-   "ram_gb": 96,
-   "storage": "2x 960 GB + 2x 3.84 TB (NVME Hybrid SoftRAID)",
-   "storage_gb": 9600,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 3 Gbps",
    "location": "Strasbourg, FR",
    "country": "France",
    "country_code": "FR",
@@ -24064,26 +23844,6 @@
    "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-sao-paulo-br/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
-   "cpu": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
-   "cpu_cores": 10,
-   "cpu_threads": 20,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR4",
-   "ram_gb": 64,
-   "storage": "2x 4 TB (HDD SATA)",
-   "storage_gb": 8000,
-   "nvme": false,
-   "bandwidth": "5 TB @ 1 Gbps",
-   "location": "Sydney, AU",
-   "country": "Australia",
-   "country_code": "AU",
-   "price_monthly": 423,
-   "currency": "EUR",
-   "price_usd": 495.0,
-   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4210-22ghz-10-cores-sydney-au-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "[Dual] Intel Xeon E5-2650 v2 2.6GHz 8 cores",
    "cpu": "[Dual] Intel Xeon E5-2650 v2 2.6GHz 8 cores",
    "cpu_cores": 8,
@@ -24104,6 +23864,26 @@
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2650-v2-26ghz-8-cores-istanbul-tr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
+   "name": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
+   "cpu": "[Dual] Intel Xeon Silver 4210 2.2GHz 10 cores",
+   "cpu_cores": 10,
+   "cpu_threads": 20,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR4",
+   "ram_gb": 64,
+   "storage": "2x 4 TB (HDD SATA)",
+   "storage_gb": 8000,
+   "nvme": false,
+   "bandwidth": "5 TB @ 1 Gbps",
+   "location": "Sydney, AU",
+   "country": "Australia",
+   "country_code": "AU",
+   "price_monthly": 423,
+   "currency": "EUR",
+   "price_usd": 495.0,
+   "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4210-22ghz-10-cores-sydney-au-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
    "name": "Intel Xeon Silver 4208 2.1GHz 8 cores",
    "cpu": "Intel Xeon Silver 4208 2.1GHz 8 cores",
    "cpu_cores": 8,
@@ -24118,9 +23898,9 @@
    "location": "Sao Paulo, BR",
    "country": "Brazil",
    "country_code": "BR",
-   "price_monthly": 425,
+   "price_monthly": 424,
    "currency": "EUR",
-   "price_usd": 498.0,
+   "price_usd": 497.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-silver-4208-21ghz-8-cores-sao-paulo-br/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -24138,9 +23918,9 @@
    "location": "Guadalajara, MX",
    "country": "Mexico",
    "country_code": "MX",
-   "price_monthly": 425,
+   "price_monthly": 424,
    "currency": "EUR",
-   "price_usd": 498.0,
+   "price_usd": 497.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-silver-4208-21ghz-8-cores-guadalajara-mx/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -24158,9 +23938,9 @@
    "location": "Cordoba, AR",
    "country": "Argentina",
    "country_code": "AR",
-   "price_monthly": 425,
+   "price_monthly": 424,
    "currency": "EUR",
-   "price_usd": 498.0,
+   "price_usd": 497.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2680-v4-24ghz-14-cores-cordoba-ar-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -24178,9 +23958,9 @@
    "location": "Tunis, TN",
    "country": "Tunisia",
    "country_code": "TN",
-   "price_monthly": 425,
+   "price_monthly": 424,
    "currency": "EUR",
-   "price_usd": 498.0,
+   "price_usd": 497.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2640-v4-24ghz-10-cores-tunis-tn/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -24578,9 +24358,9 @@
    "location": "Tokyo, JP",
    "country": "Japan",
    "country_code": "JP",
-   "price_monthly": 435,
+   "price_monthly": 434,
    "currency": "EUR",
-   "price_usd": 509.0,
+   "price_usd": 508.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4510-24ghz-12-cores-tokyo-jp/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -24598,9 +24378,9 @@
    "location": "Sydney, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 435,
+   "price_monthly": 434,
    "currency": "EUR",
-   "price_usd": 509.0,
+   "price_usd": 508.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4510-24ghz-12-cores-sydney-au/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -24618,9 +24398,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 435,
+   "price_monthly": 434,
    "currency": "EUR",
-   "price_usd": 509.0,
+   "price_usd": 508.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4510-24ghz-12-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -24638,9 +24418,9 @@
    "location": "Sao Paulo, BR",
    "country": "Brazil",
    "country_code": "BR",
-   "price_monthly": 435,
+   "price_monthly": 434,
    "currency": "EUR",
-   "price_usd": 509.0,
+   "price_usd": 508.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4510-24ghz-12-cores-sao-paulo-br/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -24764,26 +24544,6 @@
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2246g-36ghz-6-cores-lagos-ng/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "AMD EPYC 4464P 3.7GHz 12 cores",
-   "cpu": "AMD EPYC 4464P 3.7GHz 12 cores",
-   "cpu_cores": 12,
-   "cpu_threads": 24,
-   "cpu_benchmark": "",
-   "ram": "32 GB DDR5",
-   "ram_gb": 32,
-   "storage": "1 TB (SSD SATA)",
-   "storage_gb": 1000,
-   "nvme": false,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Toronto, CA",
-   "country": "Canada",
-   "country_code": "CA",
-   "price_monthly": 436,
-   "currency": "EUR",
-   "price_usd": 511.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4464p-37ghz-12-cores-toronto-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "[Dual] Intel Xeon E5-2620 v3 2.4GHz 6 cores",
    "cpu": "[Dual] Intel Xeon E5-2620 v3 2.4GHz 6 cores",
    "cpu_cores": 6,
@@ -24802,6 +24562,26 @@
    "currency": "EUR",
    "price_usd": 511.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2620-v3-24ghz-6-cores-tunis-tn-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 4464P 3.7GHz 12 cores",
+   "cpu": "AMD EPYC 4464P 3.7GHz 12 cores",
+   "cpu_cores": 12,
+   "cpu_threads": 24,
+   "cpu_benchmark": "",
+   "ram": "32 GB DDR5",
+   "ram_gb": 32,
+   "storage": "1 TB (SSD SATA)",
+   "storage_gb": 1000,
+   "nvme": false,
+   "bandwidth": "Unmetered @ 1 Gbps",
+   "location": "Toronto, CA",
+   "country": "Canada",
+   "country_code": "CA",
+   "price_monthly": 436,
+   "currency": "EUR",
+   "price_usd": 511.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4464p-37ghz-12-cores-toronto-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC TURIN 9455 3.25GHz 64 cores",
@@ -25075,13 +24855,13 @@
    "storage_gb": 960,
    "nvme": false,
    "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Bucharest, RO",
-   "country": "Romania",
-   "country_code": "RO",
+   "location": "Athens, GR",
+   "country": "Greece",
+   "country_code": "GR",
    "price_monthly": 456,
    "currency": "EUR",
    "price_usd": 534.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4465p-34ghz-12-cores-bucharest-ro/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-4465p-34ghz-12-cores-athens-gr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4465P 3.4GHz 12 cores",
@@ -25095,13 +24875,13 @@
    "storage_gb": 960,
    "nvme": false,
    "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Athens, GR",
-   "country": "Greece",
-   "country_code": "GR",
+   "location": "Bucharest, RO",
+   "country": "Romania",
+   "country_code": "RO",
    "price_monthly": 456,
    "currency": "EUR",
    "price_usd": 534.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4465p-34ghz-12-cores-athens-gr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-4465p-34ghz-12-cores-bucharest-ro/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4465P 3.4GHz 12 cores",
@@ -25142,26 +24922,6 @@
    "currency": "EUR",
    "price_usd": 534.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4465p-34ghz-12-cores-manchester-uk/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 4465P 3.4GHz 12 cores",
-   "cpu": "AMD EPYC 4465P 3.4GHz 12 cores",
-   "cpu_cores": 12,
-   "cpu_threads": 24,
-   "cpu_benchmark": "",
-   "ram": "32 GB DDR5",
-   "ram_gb": 32,
-   "storage": "2x 480 GB (SSD SATA)",
-   "storage_gb": 960,
-   "nvme": false,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Brussels, BE",
-   "country": "Belgium",
-   "country_code": "BE",
-   "price_monthly": 456,
-   "currency": "EUR",
-   "price_usd": 534.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4465p-34ghz-12-cores-brussels-be/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4465P 3.4GHz 12 cores",
@@ -25235,6 +24995,26 @@
    "storage_gb": 960,
    "nvme": false,
    "bandwidth": "Unmetered @ 1 Gbps",
+   "location": "Brussels, BE",
+   "country": "Belgium",
+   "country_code": "BE",
+   "price_monthly": 456,
+   "currency": "EUR",
+   "price_usd": 534.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4465p-34ghz-12-cores-brussels-be/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 4465P 3.4GHz 12 cores",
+   "cpu": "AMD EPYC 4465P 3.4GHz 12 cores",
+   "cpu_cores": 12,
+   "cpu_threads": 24,
+   "cpu_benchmark": "",
+   "ram": "32 GB DDR5",
+   "ram_gb": 32,
+   "storage": "2x 480 GB (SSD SATA)",
+   "storage_gb": 960,
+   "nvme": false,
+   "bandwidth": "Unmetered @ 1 Gbps",
    "location": "Dublin, IE",
    "country": "Ireland",
    "country_code": "IE",
@@ -25278,9 +25058,9 @@
    "location": "Sao Paulo, BR",
    "country": "Brazil",
    "country_code": "BR",
-   "price_monthly": 458,
+   "price_monthly": 457,
    "currency": "EUR",
-   "price_usd": 536.0,
+   "price_usd": 535.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9254-29ghz-24-cores-sao-paulo-br-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -25398,9 +25178,9 @@
    "location": "Montreal, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 465,
+   "price_monthly": 464,
    "currency": "EUR",
-   "price_usd": 544.0,
+   "price_usd": 543.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-7-9800x3d-47ghz-8-cores-montreal-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -25658,9 +25438,9 @@
    "location": "Tokyo, JP",
    "country": "Japan",
    "country_code": "JP",
-   "price_monthly": 481,
+   "price_monthly": 480,
    "currency": "EUR",
-   "price_usd": 563.0,
+   "price_usd": 562.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-tokyo-jp-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -25678,9 +25458,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 481,
+   "price_monthly": 480,
    "currency": "EUR",
-   "price_usd": 563.0,
+   "price_usd": 562.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-singapore-sg-3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -25698,9 +25478,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 482,
+   "price_monthly": 481,
    "currency": "EUR",
-   "price_usd": 564.0,
+   "price_usd": 563.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-mumbai-in-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -25718,9 +25498,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 482,
+   "price_monthly": 481,
    "currency": "EUR",
-   "price_usd": 564.0,
+   "price_usd": 563.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -25924,26 +25704,6 @@
    "url": "https://valebyte.com/en/servers/amd-ryzen-9-7950x-45ghz-16-cores-budapest-hu/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "Intel Xeon Silver 4214R 2.40GHz 2x 24 cores",
-   "cpu": "Intel Xeon Silver 4214R 2.40GHz 2x 24 cores",
-   "cpu_cores": 24,
-   "cpu_threads": 48,
-   "cpu_benchmark": 29007,
-   "ram": "192 GB DDR4",
-   "ram_gb": 192,
-   "storage": "2 x 1.92 TB (NVMe SSD)",
-   "storage_gb": 3840,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Paris, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 504,
-   "currency": "EUR",
-   "price_usd": 590.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-silver-4214r-2-40ghz-2x-24-192gb-3840gb-paris-fr-df00c5/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "AMD EPYC 7302P 3.00GHz 16 cores",
    "cpu": "AMD EPYC 7302P 3.00GHz 16 cores",
    "cpu_cores": 16,
@@ -25962,6 +25722,26 @@
    "currency": "EUR",
    "price_usd": 590.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-7302p-3-00ghz-16-256gb-3840gb-paris-fr-cad815/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "Intel Xeon Silver 4214R 2.40GHz 2x 24 cores",
+   "cpu": "Intel Xeon Silver 4214R 2.40GHz 2x 24 cores",
+   "cpu_cores": 24,
+   "cpu_threads": 48,
+   "cpu_benchmark": 29007,
+   "ram": "192 GB DDR4",
+   "ram_gb": 192,
+   "storage": "2 x 1.92 TB (NVMe SSD)",
+   "storage_gb": 3840,
+   "nvme": true,
+   "bandwidth": "Unmetered @ 1 Gbps",
+   "location": "Paris, FR",
+   "country": "France",
+   "country_code": "FR",
+   "price_monthly": 504,
+   "currency": "EUR",
+   "price_usd": 590.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-silver-4214r-2-40ghz-2x-24-192gb-3840gb-paris-fr-df00c5/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon Silver 4214R 2.40GHz 2x 24 cores",
@@ -26275,6 +26055,26 @@
    "storage_gb": 4000,
    "nvme": true,
    "bandwidth": "1 Gbps Unmetered",
+   "location": "NL, US",
+   "country": "United States",
+   "country_code": "US",
+   "price_monthly": 604,
+   "currency": "USD",
+   "price_usd": 604.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4545p-256gb-nl-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD Epyc 4545P 256GB",
+   "cpu": "AMD Epyc 4545P",
+   "cpu_cores": 16,
+   "cpu_threads": 32,
+   "cpu_benchmark": "",
+   "ram": "256 DDR5 Non-ECC RAM",
+   "ram_gb": "",
+   "storage": "4TB NVMe",
+   "storage_gb": 4000,
+   "nvme": true,
+   "bandwidth": "1 Gbps Unmetered",
    "location": "New York, US",
    "country": "United States",
    "country_code": "US",
@@ -26302,26 +26102,6 @@
    "currency": "USD",
    "price_usd": 604.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4545p-256gb-los-angeles-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD Epyc 4545P 256GB",
-   "cpu": "AMD Epyc 4545P",
-   "cpu_cores": 16,
-   "cpu_threads": 32,
-   "cpu_benchmark": "",
-   "ram": "256 DDR5 Non-ECC RAM",
-   "ram_gb": "",
-   "storage": "4TB NVMe",
-   "storage_gb": 4000,
-   "nvme": true,
-   "bandwidth": "1 Gbps Unmetered",
-   "location": "NL, US",
-   "country": "United States",
-   "country_code": "US",
-   "price_monthly": 604,
-   "currency": "USD",
-   "price_usd": 604.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4545p-256gb-nl-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD Epyc 4545P 256GB",
@@ -26758,30 +26538,10 @@
    "location": "Sydney, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 521,
+   "price_monthly": 520,
    "currency": "EUR",
-   "price_usd": 610.0,
+   "price_usd": 609.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-sydney-au-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 7313 3GHz 16 cores",
-   "cpu": "AMD EPYC 7313 3GHz 16 cores",
-   "cpu_cores": 16,
-   "cpu_threads": 32,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR4",
-   "ram_gb": 64,
-   "storage": "2x 960 GB (SSD NVMe)",
-   "storage_gb": 1920,
-   "nvme": true,
-   "bandwidth": "15 TB @ 1 Gbps",
-   "location": "Pune, IN",
-   "country": "India",
-   "country_code": "IN",
-   "price_monthly": 522,
-   "currency": "EUR",
-   "price_usd": 611.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-7313-3ghz-16-cores-pune-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 7313 3GHz 16 cores",
@@ -26798,9 +26558,9 @@
    "location": "New Delhi, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 522,
+   "price_monthly": 521,
    "currency": "EUR",
-   "price_usd": 611.0,
+   "price_usd": 610.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-7313-3ghz-16-cores-new-delhi-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -26818,10 +26578,30 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 522,
+   "price_monthly": 521,
    "currency": "EUR",
-   "price_usd": 611.0,
+   "price_usd": 610.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-7313-3ghz-16-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 7313 3GHz 16 cores",
+   "cpu": "AMD EPYC 7313 3GHz 16 cores",
+   "cpu_cores": 16,
+   "cpu_threads": 32,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR4",
+   "ram_gb": 64,
+   "storage": "2x 960 GB (SSD NVMe)",
+   "storage_gb": 1920,
+   "nvme": true,
+   "bandwidth": "15 TB @ 1 Gbps",
+   "location": "Pune, IN",
+   "country": "India",
+   "country_code": "IN",
+   "price_monthly": 521,
+   "currency": "EUR",
+   "price_usd": 610.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-7313-3ghz-16-cores-pune-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD Ryzen 9 9950X3D 4.3GHz 16 cores",
@@ -26838,9 +26618,9 @@
    "location": "Montreal, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 522,
+   "price_monthly": 521,
    "currency": "EUR",
-   "price_usd": 611.0,
+   "price_usd": 610.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-9-9950x3d-43ghz-16-cores-montreal-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -26858,9 +26638,9 @@
    "location": "Dubai, AE",
    "country": "United Arab Emirates",
    "country_code": "AE",
-   "price_monthly": 527,
+   "price_monthly": 526,
    "currency": "EUR",
-   "price_usd": 617.0,
+   "price_usd": 616.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-9-7900-37ghz-12-cores-dubai-ae/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -26878,9 +26658,9 @@
    "location": "Asuncion, PY",
    "country": "Paraguay",
    "country_code": "PY",
-   "price_monthly": 528,
+   "price_monthly": 527,
    "currency": "EUR",
-   "price_usd": 618.0,
+   "price_usd": 617.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-silver-4214-22ghz-12-cores-asuncion-py/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -26898,9 +26678,9 @@
    "location": "Lima, PE",
    "country": "Peru",
    "country_code": "PE",
-   "price_monthly": 528,
+   "price_monthly": 527,
    "currency": "EUR",
-   "price_usd": 618.0,
+   "price_usd": 617.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-silver-4208-21ghz-8-cores-lima-pe/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -27124,6 +26904,26 @@
    "url": "https://valebyte.com/en/servers/intel-xeon-gold-6248r-3ghz-quadro-p6000-24gb-helsinki-fi/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
+   "name": "AMD EPYC 7642 2.3GHz 48 cores",
+   "cpu": "AMD EPYC 7642 2.3GHz 48 cores",
+   "cpu_cores": 48,
+   "cpu_threads": 96,
+   "cpu_benchmark": "",
+   "ram": "128 GB DDR4",
+   "ram_gb": 128,
+   "storage": "1 TB (SSD NVMe)",
+   "storage_gb": 1000,
+   "nvme": true,
+   "bandwidth": "20 TB @ 10 Gbps",
+   "location": "Vancouver, CA",
+   "country": "Canada",
+   "country_code": "CA",
+   "price_monthly": 550,
+   "currency": "EUR",
+   "price_usd": 644.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-7642-23ghz-48-cores-vancouver-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
    "name": "AMD EPYC 7232P",
    "cpu": "AMD EPYC 7232P, 8C/16T @ 3.1GHz",
    "cpu_cores": 8,
@@ -27142,26 +26942,6 @@
    "currency": "EUR",
    "price_usd": 645.0,
    "url": "https://valebyte.com/en/servers/scaleway-em-l220e-nvme-paris-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 7642 2.3GHz 48 cores",
-   "cpu": "AMD EPYC 7642 2.3GHz 48 cores",
-   "cpu_cores": 48,
-   "cpu_threads": 96,
-   "cpu_benchmark": "",
-   "ram": "128 GB DDR4",
-   "ram_gb": 128,
-   "storage": "1 TB (SSD NVMe)",
-   "storage_gb": 1000,
-   "nvme": true,
-   "bandwidth": "20 TB @ 10 Gbps",
-   "location": "Vancouver, CA",
-   "country": "Canada",
-   "country_code": "CA",
-   "price_monthly": 551,
-   "currency": "EUR",
-   "price_usd": 645.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-7642-23ghz-48-cores-vancouver-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Gold 5218 2.3GHz 16 cores",
@@ -27342,26 +27122,6 @@
    "currency": "EUR",
    "price_usd": 646.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-5218-23ghz-16-cores-rome-it/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 8124P",
-   "cpu": "AMD EPYC 8124P, 16C/32T @ 2.5GHz",
-   "cpu_cores": 16,
-   "cpu_threads": 32,
-   "cpu_benchmark": "",
-   "ram": "128 GB DDR5",
-   "ram_gb": 128,
-   "storage": "2x894GB (NVME)",
-   "storage_gb": 1788,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Paris, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 552,
-   "currency": "EUR",
-   "price_usd": 646.0,
-   "url": "https://valebyte.com/en/servers/scaleway-em-i220e-nvme-paris-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 8124P",
@@ -27658,9 +27418,9 @@
    "location": "Bogota, CO",
    "country": "Colombia",
    "country_code": "CO",
-   "price_monthly": 561,
+   "price_monthly": 560,
    "currency": "EUR",
-   "price_usd": 657.0,
+   "price_usd": 656.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-bogota-co/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -27678,9 +27438,9 @@
    "location": "Buenos Aires, AR",
    "country": "Argentina",
    "country_code": "AR",
-   "price_monthly": 561,
+   "price_monthly": 560,
    "currency": "EUR",
-   "price_usd": 657.0,
+   "price_usd": 656.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-buenos-aires-ar/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -27698,9 +27458,9 @@
    "location": "Santiago, CL",
    "country": "Chile",
    "country_code": "CL",
-   "price_monthly": 561,
+   "price_monthly": 560,
    "currency": "EUR",
-   "price_usd": 657.0,
+   "price_usd": 656.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-santiago-cl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -27718,9 +27478,9 @@
    "location": "Dubai, AE",
    "country": "United Arab Emirates",
    "country_code": "AE",
-   "price_monthly": 561,
+   "price_monthly": 560,
    "currency": "EUR",
-   "price_usd": 657.0,
+   "price_usd": 656.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-dubai-ae/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -27738,10 +27498,30 @@
    "location": "Sao Paulo, BR",
    "country": "Brazil",
    "country_code": "BR",
-   "price_monthly": 561,
+   "price_monthly": 560,
    "currency": "EUR",
-   "price_usd": 657.0,
+   "price_usd": 656.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-sao-paulo-br/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "AMD EPYC 4244P 3.8GHz 6 cores",
+   "cpu": "AMD EPYC 4244P 3.8GHz 6 cores",
+   "cpu_cores": 6,
+   "cpu_threads": 12,
+   "cpu_benchmark": "",
+   "ram": "64 GB DDR5",
+   "ram_gb": 64,
+   "storage": "2x 960 GB (SSD NVMe)",
+   "storage_gb": 1920,
+   "nvme": true,
+   "bandwidth": "20 TB @ 10 Gbps",
+   "location": "Mexico City, MX",
+   "country": "Mexico",
+   "country_code": "MX",
+   "price_monthly": 560,
+   "currency": "EUR",
+   "price_usd": 656.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-mexico-city-mx/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Gold 6242R 3.1GHz 20 cores",
@@ -27762,26 +27542,6 @@
    "currency": "EUR",
    "price_usd": 657.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-6242r-31ghz-20-cores-amsterdam-nl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "AMD EPYC 4244P 3.8GHz 6 cores",
-   "cpu": "AMD EPYC 4244P 3.8GHz 6 cores",
-   "cpu_cores": 6,
-   "cpu_threads": 12,
-   "cpu_benchmark": "",
-   "ram": "64 GB DDR5",
-   "ram_gb": 64,
-   "storage": "2x 960 GB (SSD NVMe)",
-   "storage_gb": 1920,
-   "nvme": true,
-   "bandwidth": "20 TB @ 10 Gbps",
-   "location": "Mexico City, MX",
-   "country": "Mexico",
-   "country_code": "MX",
-   "price_monthly": 561,
-   "currency": "EUR",
-   "price_usd": 657.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-4244p-38ghz-6-cores-mexico-city-mx/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 4584PX 4.2GHz 16 cores",
@@ -27874,14 +27634,14 @@
    "storage": "2x4TB NVMe",
    "storage_gb": 8000,
    "nvme": true,
-   "bandwidth": "10 Gbps Unmetered",
-   "location": "New York, US",
+   "bandwidth": "1 Gbps Unmetered",
+   "location": "Miami, US",
    "country": "United States",
    "country_code": "US",
    "price_monthly": 659,
    "currency": "USD",
    "price_usd": 659.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-9950x-256gb-new-york-us-3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-ryzen-9950x-256gb-miami-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD Ryzen 9950X 256GB",
@@ -27894,14 +27654,14 @@
    "storage": "2x4TB NVMe",
    "storage_gb": 8000,
    "nvme": true,
-   "bandwidth": "1 Gbps Unmetered",
+   "bandwidth": "10 Gbps Unmetered",
    "location": "New York, US",
    "country": "United States",
    "country_code": "US",
    "price_monthly": 659,
    "currency": "USD",
    "price_usd": 659.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-9950x-256gb-new-york-us-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-ryzen-9950x-256gb-new-york-us-3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD Ryzen 9950X 256GB",
@@ -27924,24 +27684,24 @@
    "url": "https://valebyte.com/en/servers/amd-ryzen-9950x-256gb-nl-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "AMD Ryzen 9950X 256GB",
-   "cpu": "AMD Ryzen 9950X",
-   "cpu_cores": "",
-   "cpu_threads": "",
+   "name": "AMD EPYC 7532 2.4GHz 32 cores",
+   "cpu": "AMD EPYC 7532 2.4GHz 32 cores",
+   "cpu_cores": 32,
+   "cpu_threads": 64,
    "cpu_benchmark": "",
-   "ram": "256 DDR5 Non-ECC RAM",
-   "ram_gb": "",
-   "storage": "2x4TB NVMe",
-   "storage_gb": 8000,
+   "ram": "256 GB DDR4",
+   "ram_gb": 256,
+   "storage": "2x 2 TB (SSD NVMe)",
+   "storage_gb": 4000,
    "nvme": true,
-   "bandwidth": "1 Gbps Unmetered",
-   "location": "Miami, US",
-   "country": "United States",
-   "country_code": "US",
-   "price_monthly": 659,
-   "currency": "USD",
-   "price_usd": 659.0,
-   "url": "https://valebyte.com/en/servers/amd-ryzen-9950x-256gb-miami-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "bandwidth": "Unmetered @ 10 Gbps",
+   "location": "Paris, FR",
+   "country": "France",
+   "country_code": "FR",
+   "price_monthly": 564,
+   "currency": "EUR",
+   "price_usd": 660.0,
+   "url": "https://valebyte.com/en/servers/amd-epyc-7532-24ghz-32-cores-paris-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Silver 4214R 2.4GHz 12 cores",
@@ -27984,26 +27744,6 @@
    "url": "https://valebyte.com/en/servers/amd-epyc-7532-24ghz-32-cores-amsterdam-nl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
-   "name": "AMD EPYC 7532 2.4GHz 32 cores",
-   "cpu": "AMD EPYC 7532 2.4GHz 32 cores",
-   "cpu_cores": 32,
-   "cpu_threads": 64,
-   "cpu_benchmark": "",
-   "ram": "256 GB DDR4",
-   "ram_gb": 256,
-   "storage": "2x 2 TB (SSD NVMe)",
-   "storage_gb": 4000,
-   "nvme": true,
-   "bandwidth": "Unmetered @ 10 Gbps",
-   "location": "Paris, FR",
-   "country": "France",
-   "country_code": "FR",
-   "price_monthly": 564,
-   "currency": "EUR",
-   "price_usd": 660.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-7532-24ghz-32-cores-paris-fr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
    "name": "[Dual] Intel Xeon Gold 5218 2.3GHz 16 cores",
    "cpu": "[Dual] Intel Xeon Gold 5218 2.3GHz 16 cores",
    "cpu_cores": 16,
@@ -28018,9 +27758,9 @@
    "location": "Sao Paulo, BR",
    "country": "Brazil",
    "country_code": "BR",
-   "price_monthly": 567,
+   "price_monthly": 566,
    "currency": "EUR",
-   "price_usd": 664.0,
+   "price_usd": 663.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-5218-23ghz-16-cores-sao-paulo-br-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28438,9 +28178,9 @@
    "location": "Dubai, AE",
    "country": "United Arab Emirates",
    "country_code": "AE",
-   "price_monthly": 584,
+   "price_monthly": 583,
    "currency": "EUR",
-   "price_usd": 684.0,
+   "price_usd": 683.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4510-24ghz-12-cores-dubai-ae/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28458,9 +28198,9 @@
    "location": "Tel Aviv, IL",
    "country": "Israel",
    "country_code": "IL",
-   "price_monthly": 584,
+   "price_monthly": 583,
    "currency": "EUR",
-   "price_usd": 684.0,
+   "price_usd": 683.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2690-v4-26ghz-14-cores-tel-aviv-il-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28478,9 +28218,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 588,
+   "price_monthly": 587,
    "currency": "EUR",
-   "price_usd": 688.0,
+   "price_usd": 687.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4484px-44ghz-12-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28498,9 +28238,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 589,
+   "price_monthly": 588,
    "currency": "EUR",
-   "price_usd": 690.0,
+   "price_usd": 688.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-7543-28ghz-32-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28518,9 +28258,9 @@
    "location": "Tunis, TN",
    "country": "Tunisia",
    "country_code": "TN",
-   "price_monthly": 589,
+   "price_monthly": 588,
    "currency": "EUR",
-   "price_usd": 690.0,
+   "price_usd": 688.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2620-v3-24ghz-6-cores-tunis-tn-3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28538,9 +28278,9 @@
    "location": "Seoul, KR",
    "country": "South Korea",
    "country_code": "KR",
-   "price_monthly": 589,
+   "price_monthly": 588,
    "currency": "EUR",
-   "price_usd": 690.0,
+   "price_usd": 688.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4214-22ghz-12-cores-seoul-kr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28558,9 +28298,9 @@
    "location": "Buenos Aires, AR",
    "country": "Argentina",
    "country_code": "AR",
-   "price_monthly": 589,
+   "price_monthly": 588,
    "currency": "EUR",
-   "price_usd": 690.0,
+   "price_usd": 688.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-silver-4208-21ghz-8-cores-buenos-aires-ar/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28578,9 +28318,9 @@
    "location": "New Delhi, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 589,
+   "price_monthly": 588,
    "currency": "EUR",
-   "price_usd": 690.0,
+   "price_usd": 688.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-7543-28ghz-32-cores-new-delhi-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28598,9 +28338,9 @@
    "location": "Pune, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 589,
+   "price_monthly": 588,
    "currency": "EUR",
-   "price_usd": 690.0,
+   "price_usd": 688.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-7543-28ghz-32-cores-pune-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28618,9 +28358,9 @@
    "location": "Taipei, TW",
    "country": "Taiwan",
    "country_code": "TW",
-   "price_monthly": 589,
+   "price_monthly": 588,
    "currency": "EUR",
-   "price_usd": 690.0,
+   "price_usd": 688.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2660-v2-22ghz-10-cores-taipei-tw-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28938,9 +28678,9 @@
    "location": "Dubai, AE",
    "country": "United Arab Emirates",
    "country_code": "AE",
-   "price_monthly": 609,
+   "price_monthly": 608,
    "currency": "EUR",
-   "price_usd": 713.0,
+   "price_usd": 712.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2640-v4-24ghz-10-cores-dubai-ae/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -28958,9 +28698,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 609,
+   "price_monthly": 608,
    "currency": "EUR",
-   "price_usd": 713.0,
+   "price_usd": 712.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-6132-26ghz-14-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -29018,9 +28758,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 631,
+   "price_monthly": 630,
    "currency": "EUR",
-   "price_usd": 739.0,
+   "price_usd": 738.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-8224p-255ghz-24-cores-singapore-sg-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -29118,9 +28858,9 @@
    "location": "Montreal, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 647,
+   "price_monthly": 646,
    "currency": "EUR",
-   "price_usd": 757.0,
+   "price_usd": 756.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-8224p-255ghz-24-cores-montreal-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -29175,13 +28915,13 @@
    "storage_gb": 3840,
    "nvme": true,
    "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Paris, FR",
-   "country": "France",
-   "country_code": "FR",
+   "location": "Amsterdam, NL",
+   "country": "Netherlands",
+   "country_code": "NL",
    "price_monthly": 660,
    "currency": "EUR",
    "price_usd": 773.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-gold-6242r-3-10ghz-2x-40-384gb-3840gb-paris-fr-8d1d0e/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/intel-xeon-gold-6242r-3-10ghz-2x-40-384gb-3840gb-amsterdam-nl-37e791/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "Intel Xeon Gold 6242R 3.10GHz 2x 40 cores",
@@ -29195,13 +28935,13 @@
    "storage_gb": 3840,
    "nvme": true,
    "bandwidth": "Unmetered @ 1 Gbps",
-   "location": "Amsterdam, NL",
-   "country": "Netherlands",
-   "country_code": "NL",
+   "location": "Paris, FR",
+   "country": "France",
+   "country_code": "FR",
    "price_monthly": 660,
    "currency": "EUR",
    "price_usd": 773.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-gold-6242r-3-10ghz-2x-40-384gb-3840gb-amsterdam-nl-37e791/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/intel-xeon-gold-6242r-3-10ghz-2x-40-384gb-3840gb-paris-fr-8d1d0e/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 8434P 2.50GHz 48 cores",
@@ -29358,9 +29098,9 @@
    "location": "Istanbul, TR",
    "country": "Turkey",
    "country_code": "TR",
-   "price_monthly": 672,
+   "price_monthly": 671,
    "currency": "EUR",
-   "price_usd": 787.0,
+   "price_usd": 785.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-6138-2ghz-20-cores-istanbul-tr/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -29378,9 +29118,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 673,
+   "price_monthly": 672,
    "currency": "EUR",
-   "price_usd": 788.0,
+   "price_usd": 787.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-9-9950x-43ghz-16-cores-singapore-sg-3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -29498,9 +29238,9 @@
    "location": "Sao Paulo, BR",
    "country": "Brazil",
    "country_code": "BR",
-   "price_monthly": 694,
+   "price_monthly": 693,
    "currency": "EUR",
-   "price_usd": 812.0,
+   "price_usd": 811.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-silver-4208-21ghz-8-cores-sao-paulo-br-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -29678,10 +29418,70 @@
    "location": "Nairobi, KE",
    "country": "Kenya",
    "country_code": "KE",
+   "price_monthly": 734,
+   "currency": "EUR",
+   "price_usd": 859.0,
+   "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2620-2ghz-6-cores-nairobi-ke-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "Intel Xeon Silver 4214 2.2GHz 12 cores",
+   "cpu": "Intel Xeon Silver 4214 2.2GHz 12 cores",
+   "cpu_cores": 12,
+   "cpu_threads": 24,
+   "cpu_benchmark": "",
+   "ram": "128 GB DDR4",
+   "ram_gb": 128,
+   "storage": "2x 480 GB (SSD SATA)",
+   "storage_gb": 960,
+   "nvme": false,
+   "bandwidth": "20 TB @ 1 Gbps",
+   "location": "Quito, EC",
+   "country": "Ecuador",
+   "country_code": "EC",
    "price_monthly": 735,
    "currency": "EUR",
    "price_usd": 860.0,
-   "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2620-2ghz-6-cores-nairobi-ke-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/intel-xeon-silver-4214-22ghz-12-cores-quito-ec/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "Intel Xeon Silver 4214 2.2GHz 12 cores",
+   "cpu": "Intel Xeon Silver 4214 2.2GHz 12 cores",
+   "cpu_cores": 12,
+   "cpu_threads": 24,
+   "cpu_benchmark": "",
+   "ram": "128 GB DDR4",
+   "ram_gb": 128,
+   "storage": "2x 500 GB (SSD SATA)",
+   "storage_gb": 1000,
+   "nvme": false,
+   "bandwidth": "20 TB @ 1 Gbps",
+   "location": "Montevideo, UY",
+   "country": "Uruguay",
+   "country_code": "UY",
+   "price_monthly": 735,
+   "currency": "EUR",
+   "price_usd": 860.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-silver-4214-22ghz-12-cores-montevideo-uy/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+  },
+  {
+   "name": "Intel Xeon Silver 4214 2.2GHz 12 cores",
+   "cpu": "Intel Xeon Silver 4214 2.2GHz 12 cores",
+   "cpu_cores": 12,
+   "cpu_threads": 24,
+   "cpu_benchmark": "",
+   "ram": "128 GB DDR4",
+   "ram_gb": 128,
+   "storage": "2x 500 GB (SSD SATA)",
+   "storage_gb": 1000,
+   "nvme": false,
+   "bandwidth": "25 TB @ 1 Gbps",
+   "location": "Sao Paulo, BR",
+   "country": "Brazil",
+   "country_code": "BR",
+   "price_monthly": 735,
+   "currency": "EUR",
+   "price_usd": 860.0,
+   "url": "https://valebyte.com/en/servers/intel-xeon-silver-4214-22ghz-12-cores-sao-paulo-br/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "[Dual] Intel Xeon Gold 6132 2.6GHz 14 cores",
@@ -29702,66 +29502,6 @@
    "currency": "EUR",
    "price_usd": 862.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-6132-26ghz-14-cores-warsaw-pl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon Silver 4214 2.2GHz 12 cores",
-   "cpu": "Intel Xeon Silver 4214 2.2GHz 12 cores",
-   "cpu_cores": 12,
-   "cpu_threads": 24,
-   "cpu_benchmark": "",
-   "ram": "128 GB DDR4",
-   "ram_gb": 128,
-   "storage": "2x 480 GB (SSD SATA)",
-   "storage_gb": 960,
-   "nvme": false,
-   "bandwidth": "20 TB @ 1 Gbps",
-   "location": "Quito, EC",
-   "country": "Ecuador",
-   "country_code": "EC",
-   "price_monthly": 736,
-   "currency": "EUR",
-   "price_usd": 862.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-silver-4214-22ghz-12-cores-quito-ec/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon Silver 4214 2.2GHz 12 cores",
-   "cpu": "Intel Xeon Silver 4214 2.2GHz 12 cores",
-   "cpu_cores": 12,
-   "cpu_threads": 24,
-   "cpu_benchmark": "",
-   "ram": "128 GB DDR4",
-   "ram_gb": 128,
-   "storage": "2x 500 GB (SSD SATA)",
-   "storage_gb": 1000,
-   "nvme": false,
-   "bandwidth": "20 TB @ 1 Gbps",
-   "location": "Montevideo, UY",
-   "country": "Uruguay",
-   "country_code": "UY",
-   "price_monthly": 736,
-   "currency": "EUR",
-   "price_usd": 862.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-silver-4214-22ghz-12-cores-montevideo-uy/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
-  },
-  {
-   "name": "Intel Xeon Silver 4214 2.2GHz 12 cores",
-   "cpu": "Intel Xeon Silver 4214 2.2GHz 12 cores",
-   "cpu_cores": 12,
-   "cpu_threads": 24,
-   "cpu_benchmark": "",
-   "ram": "128 GB DDR4",
-   "ram_gb": 128,
-   "storage": "2x 500 GB (SSD SATA)",
-   "storage_gb": 1000,
-   "nvme": false,
-   "bandwidth": "25 TB @ 1 Gbps",
-   "location": "Sao Paulo, BR",
-   "country": "Brazil",
-   "country_code": "BR",
-   "price_monthly": 736,
-   "currency": "EUR",
-   "price_usd": 862.0,
-   "url": "https://valebyte.com/en/servers/intel-xeon-silver-4214-22ghz-12-cores-sao-paulo-br/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 9124 3GHz 16 cores",
@@ -29838,9 +29578,9 @@
    "location": "Santiago, CL",
    "country": "Chile",
    "country_code": "CL",
-   "price_monthly": 756,
+   "price_monthly": 755,
    "currency": "EUR",
-   "price_usd": 885.0,
+   "price_usd": 884.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9124-3ghz-16-cores-santiago-cl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -29858,9 +29598,9 @@
    "location": "Vancouver, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 757,
+   "price_monthly": 756,
    "currency": "EUR",
-   "price_usd": 886.0,
+   "price_usd": 885.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-7642-23ghz-48-cores-vancouver-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30338,9 +30078,9 @@
    "location": "Dubai, AE",
    "country": "United Arab Emirates",
    "country_code": "AE",
-   "price_monthly": 840,
+   "price_monthly": 839,
    "currency": "EUR",
-   "price_usd": 983.0,
+   "price_usd": 982.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-6132-26ghz-14-cores-dubai-ae/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30358,9 +30098,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 841,
+   "price_monthly": 840,
    "currency": "EUR",
-   "price_usd": 984.0,
+   "price_usd": 983.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9554-31ghz-64-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30378,9 +30118,9 @@
    "location": "Pune, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 841,
+   "price_monthly": 840,
    "currency": "EUR",
-   "price_usd": 984.0,
+   "price_usd": 983.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9554-31ghz-64-cores-pune-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30398,9 +30138,9 @@
    "location": "Queretaro, MX",
    "country": "Mexico",
    "country_code": "MX",
-   "price_monthly": 841,
+   "price_monthly": 840,
    "currency": "EUR",
-   "price_usd": 984.0,
+   "price_usd": 983.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-silver-4208-21ghz-8-cores-queretaro-mx/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30418,9 +30158,9 @@
    "location": "New Delhi, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 841,
+   "price_monthly": 840,
    "currency": "EUR",
-   "price_usd": 984.0,
+   "price_usd": 983.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9554-31ghz-64-cores-new-delhi-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30558,9 +30298,9 @@
    "location": "Toronto, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 883,
+   "price_monthly": 882,
    "currency": "EUR",
-   "price_usd": 1033.0,
+   "price_usd": 1032.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9124-3ghz-16-cores-toronto-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30578,9 +30318,9 @@
    "location": "Montreal, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 883,
+   "price_monthly": 882,
    "currency": "EUR",
-   "price_usd": 1033.0,
+   "price_usd": 1032.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9124-3ghz-16-cores-montreal-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30738,9 +30478,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 903,
+   "price_monthly": 902,
    "currency": "EUR",
-   "price_usd": 1057.0,
+   "price_usd": 1056.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4564p-45ghz-16-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30778,9 +30518,9 @@
    "location": "Nairobi, KE",
    "country": "Kenya",
    "country_code": "KE",
-   "price_monthly": 945,
+   "price_monthly": 944,
    "currency": "EUR",
-   "price_usd": 1106.0,
+   "price_usd": 1105.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2620-2ghz-6-cores-nairobi-ke-3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30798,9 +30538,9 @@
    "location": "Tripoli, LY",
    "country": "Libya",
    "country_code": "LY",
-   "price_monthly": 945,
+   "price_monthly": 944,
    "currency": "EUR",
-   "price_usd": 1106.0,
+   "price_usd": 1105.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e5-2680-v3-25ghz-12-cores-tripoli-ly/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30818,9 +30558,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 957,
+   "price_monthly": 956,
    "currency": "EUR",
-   "price_usd": 1120.0,
+   "price_usd": 1119.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9124-3ghz-16-cores-singapore-sg-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30838,9 +30578,9 @@
    "location": "Sydney, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 957,
+   "price_monthly": 956,
    "currency": "EUR",
-   "price_usd": 1120.0,
+   "price_usd": 1119.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9124-3ghz-16-cores-sydney-au-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30898,9 +30638,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 978,
+   "price_monthly": 977,
    "currency": "EUR",
-   "price_usd": 1145.0,
+   "price_usd": 1143.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-7763-245ghz-64-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30918,9 +30658,9 @@
    "location": "Pune, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 978,
+   "price_monthly": 977,
    "currency": "EUR",
-   "price_usd": 1145.0,
+   "price_usd": 1143.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-7763-245ghz-64-cores-pune-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30938,9 +30678,9 @@
    "location": "New Delhi, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 978,
+   "price_monthly": 977,
    "currency": "EUR",
-   "price_usd": 1145.0,
+   "price_usd": 1143.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-7763-245ghz-64-cores-new-delhi-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30958,9 +30698,9 @@
    "location": "Toronto, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 978,
+   "price_monthly": 977,
    "currency": "EUR",
-   "price_usd": 1145.0,
+   "price_usd": 1143.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9254-29ghz-24-cores-toronto-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -30978,9 +30718,9 @@
    "location": "Montreal, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 978,
+   "price_monthly": 977,
    "currency": "EUR",
-   "price_usd": 1145.0,
+   "price_usd": 1143.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9254-29ghz-24-cores-montreal-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31138,9 +30878,9 @@
    "location": "Mexico City, MX",
    "country": "Mexico",
    "country_code": "MX",
-   "price_monthly": 998,
+   "price_monthly": 997,
    "currency": "EUR",
-   "price_usd": 1168.0,
+   "price_usd": 1167.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4564p-45ghz-16-cores-mexico-city-mx/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31158,9 +30898,9 @@
    "location": "Buenos Aires, AR",
    "country": "Argentina",
    "country_code": "AR",
-   "price_monthly": 998,
+   "price_monthly": 997,
    "currency": "EUR",
-   "price_usd": 1168.0,
+   "price_usd": 1167.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4564p-45ghz-16-cores-buenos-aires-ar/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31178,9 +30918,9 @@
    "location": "Melbourne, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 998,
+   "price_monthly": 997,
    "currency": "EUR",
-   "price_usd": 1168.0,
+   "price_usd": 1167.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4564p-45ghz-16-cores-melbourne-au-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31415,13 +31155,13 @@
    "storage_gb": 1920,
    "nvme": true,
    "bandwidth": "Unmetered @ 5 Gbps",
-   "location": "Frankfurt, DE",
-   "country": "Germany",
-   "country_code": "DE",
+   "location": "Warsaw, PL",
+   "country": "Poland",
+   "country_code": "PL",
    "price_monthly": 1023,
    "currency": "EUR",
    "price_usd": 1197.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-9554-31ghz-64-cores-frankfurt-de/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-9554-31ghz-64-cores-warsaw-pl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 9554 3.1GHz 64 cores",
@@ -31435,13 +31175,13 @@
    "storage_gb": 1920,
    "nvme": true,
    "bandwidth": "Unmetered @ 5 Gbps",
-   "location": "Warsaw, PL",
-   "country": "Poland",
-   "country_code": "PL",
+   "location": "Frankfurt, DE",
+   "country": "Germany",
+   "country_code": "DE",
    "price_monthly": 1023,
    "currency": "EUR",
    "price_usd": 1197.0,
-   "url": "https://valebyte.com/en/servers/amd-epyc-9554-31ghz-64-cores-warsaw-pl/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-epyc-9554-31ghz-64-cores-frankfurt-de/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 9554 3.1GHz 64 cores",
@@ -31498,9 +31238,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 1051,
+   "price_monthly": 1050,
    "currency": "EUR",
-   "price_usd": 1230.0,
+   "price_usd": 1229.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9254-29ghz-24-cores-singapore-sg-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31518,9 +31258,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 1051,
+   "price_monthly": 1050,
    "currency": "EUR",
-   "price_usd": 1230.0,
+   "price_usd": 1229.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9254-29ghz-24-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31538,9 +31278,9 @@
    "location": "Sydney, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 1051,
+   "price_monthly": 1050,
    "currency": "EUR",
-   "price_usd": 1230.0,
+   "price_usd": 1229.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9254-29ghz-24-cores-sydney-au-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31558,9 +31298,9 @@
    "location": "Toronto, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 1051,
+   "price_monthly": 1050,
    "currency": "EUR",
-   "price_usd": 1230.0,
+   "price_usd": 1229.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9354-325ghz-32-cores-toronto-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31578,9 +31318,9 @@
    "location": "Montreal, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 1051,
+   "price_monthly": 1050,
    "currency": "EUR",
-   "price_usd": 1230.0,
+   "price_usd": 1229.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9354-325ghz-32-cores-montreal-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31638,9 +31378,9 @@
    "location": "Toronto, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 1104,
+   "price_monthly": 1103,
    "currency": "EUR",
-   "price_usd": 1292.0,
+   "price_usd": 1291.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9454-275ghz-48-cores-toronto-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31658,9 +31398,9 @@
    "location": "New Delhi, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 1135,
+   "price_monthly": 1134,
    "currency": "EUR",
-   "price_usd": 1328.0,
+   "price_usd": 1327.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-9334-27ghz-32-cores-new-delhi-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31678,9 +31418,9 @@
    "location": "Pune, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 1135,
+   "price_monthly": 1134,
    "currency": "EUR",
-   "price_usd": 1328.0,
+   "price_usd": 1327.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-9334-27ghz-32-cores-pune-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31698,9 +31438,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 1135,
+   "price_monthly": 1134,
    "currency": "EUR",
-   "price_usd": 1328.0,
+   "price_usd": 1327.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-9334-27ghz-32-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31718,9 +31458,9 @@
    "location": "Nairobi, KE",
    "country": "Kenya",
    "country_code": "KE",
-   "price_monthly": 1155,
+   "price_monthly": 1154,
    "currency": "EUR",
-   "price_usd": 1352.0,
+   "price_usd": 1351.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2620-2ghz-6-cores-nairobi-ke-4/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31738,9 +31478,9 @@
    "location": "Toronto, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 1156,
+   "price_monthly": 1155,
    "currency": "EUR",
-   "price_usd": 1353.0,
+   "price_usd": 1352.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9554-31ghz-64-cores-toronto-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31758,9 +31498,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 1156,
+   "price_monthly": 1155,
    "currency": "EUR",
-   "price_usd": 1353.0,
+   "price_usd": 1352.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9354-325ghz-32-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31778,9 +31518,9 @@
    "location": "Sydney, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 1156,
+   "price_monthly": 1155,
    "currency": "EUR",
-   "price_usd": 1353.0,
+   "price_usd": 1352.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9354-325ghz-32-cores-sydney-au/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31798,9 +31538,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 1209,
+   "price_monthly": 1208,
    "currency": "EUR",
-   "price_usd": 1415.0,
+   "price_usd": 1414.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9454-275ghz-48-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31818,9 +31558,9 @@
    "location": "Sydney, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 1209,
+   "price_monthly": 1208,
    "currency": "EUR",
-   "price_usd": 1415.0,
+   "price_usd": 1414.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9454-275ghz-48-cores-sydney-au/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31838,9 +31578,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 1209,
+   "price_monthly": 1208,
    "currency": "EUR",
-   "price_usd": 1415.0,
+   "price_usd": 1414.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9454-275ghz-48-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31858,9 +31598,9 @@
    "location": "Pune, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 1230,
+   "price_monthly": 1229,
    "currency": "EUR",
-   "price_usd": 1439.0,
+   "price_usd": 1438.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-9554-31ghz-64-cores-pune-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31878,9 +31618,9 @@
    "location": "New Delhi, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 1230,
+   "price_monthly": 1229,
    "currency": "EUR",
-   "price_usd": 1439.0,
+   "price_usd": 1438.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-9554-31ghz-64-cores-new-delhi-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31898,9 +31638,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 1230,
+   "price_monthly": 1229,
    "currency": "EUR",
-   "price_usd": 1439.0,
+   "price_usd": 1438.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-9554-31ghz-64-cores-mumbai-in/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31918,9 +31658,9 @@
    "location": "Seoul, KR",
    "country": "South Korea",
    "country_code": "KR",
-   "price_monthly": 1251,
+   "price_monthly": 1250,
    "currency": "EUR",
-   "price_usd": 1464.0,
+   "price_usd": 1463.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e3-1270-v6-38ghz-4-cores-seoul-kr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -31938,9 +31678,9 @@
    "location": "Mumbai, IN",
    "country": "India",
    "country_code": "IN",
-   "price_monthly": 1261,
+   "price_monthly": 1260,
    "currency": "EUR",
-   "price_usd": 1476.0,
+   "price_usd": 1475.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9554-31ghz-64-cores-mumbai-in-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32078,9 +31818,9 @@
    "location": "Seoul, KR",
    "country": "South Korea",
    "country_code": "KR",
-   "price_monthly": 1272,
+   "price_monthly": 1271,
    "currency": "EUR",
-   "price_usd": 1489.0,
+   "price_usd": 1487.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2234-36ghz-4-cores-seoul-kr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32098,9 +31838,9 @@
    "location": "Kuala Lumpur, MY",
    "country": "Malaysia",
    "country_code": "MY",
-   "price_monthly": 1282,
+   "price_monthly": 1281,
    "currency": "EUR",
-   "price_usd": 1500.0,
+   "price_usd": 1499.0,
    "url": "https://valebyte.com/en/servers/amd-ryzen-9-9950x3d-43ghz-16-cores-kuala-lumpur-my-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32118,9 +31858,9 @@
    "location": "Seoul, KR",
    "country": "South Korea",
    "country_code": "KR",
-   "price_monthly": 1282,
+   "price_monthly": 1281,
    "currency": "EUR",
-   "price_usd": 1500.0,
+   "price_usd": 1499.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2246g-36ghz-6-cores-seoul-kr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32138,9 +31878,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 1366,
+   "price_monthly": 1365,
    "currency": "EUR",
-   "price_usd": 1599.0,
+   "price_usd": 1597.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9555p-32ghz-64-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32158,9 +31898,9 @@
    "location": "Auckland, NZ",
    "country": "New Zealand",
    "country_code": "NZ",
-   "price_monthly": 1366,
+   "price_monthly": 1365,
    "currency": "EUR",
-   "price_usd": 1599.0,
+   "price_usd": 1597.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4465p-34ghz-12-cores-auckland-nz/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32178,9 +31918,9 @@
    "location": "Melbourne, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 1366,
+   "price_monthly": 1365,
    "currency": "EUR",
-   "price_usd": 1599.0,
+   "price_usd": 1597.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4465p-34ghz-12-cores-melbourne-au/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32198,9 +31938,9 @@
    "location": "Montreal, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 1429,
+   "price_monthly": 1428,
    "currency": "EUR",
-   "price_usd": 1672.0,
+   "price_usd": 1671.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-5515-32ghz-8-cores-montreal-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32218,9 +31958,9 @@
    "location": "Toronto, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 1429,
+   "price_monthly": 1428,
    "currency": "EUR",
-   "price_usd": 1672.0,
+   "price_usd": 1671.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-5515-32ghz-8-cores-toronto-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32238,9 +31978,9 @@
    "location": "Melbourne, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 1440,
+   "price_monthly": 1438,
    "currency": "EUR",
-   "price_usd": 1685.0,
+   "price_usd": 1683.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-melbourne-au/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32258,9 +31998,9 @@
    "location": "Auckland, NZ",
    "country": "New Zealand",
    "country_code": "NZ",
-   "price_monthly": 1440,
+   "price_monthly": 1438,
    "currency": "EUR",
-   "price_usd": 1685.0,
+   "price_usd": 1683.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-4584px-42ghz-16-cores-auckland-nz/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32278,9 +32018,9 @@
    "location": "Tunis, TN",
    "country": "Tunisia",
    "country_code": "TN",
-   "price_monthly": 1461,
+   "price_monthly": 1459,
    "currency": "EUR",
-   "price_usd": 1710.0,
+   "price_usd": 1707.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2697-v4-23ghz-18-cores-tunis-tn/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32318,9 +32058,9 @@
    "location": "Sydney, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 1785,
+   "price_monthly": 1784,
    "currency": "EUR",
-   "price_usd": 2089.0,
+   "price_usd": 2088.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-9254-29ghz-24-cores-sydney-au/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32338,9 +32078,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 1787,
+   "price_monthly": 1785,
    "currency": "EUR",
-   "price_usd": 2091.0,
+   "price_usd": 2089.0,
    "url": "https://valebyte.com/en/servers/dual-amd-epyc-9254-29ghz-24-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32358,9 +32098,9 @@
    "location": "Dubai, AE",
    "country": "United Arab Emirates",
    "country_code": "AE",
-   "price_monthly": 1817,
+   "price_monthly": 1815,
    "currency": "EUR",
-   "price_usd": 2126.0,
+   "price_usd": 2124.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2640-v4-24ghz-10-cores-dubai-ae-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32418,9 +32158,9 @@
    "location": "San Jose, CR",
    "country": "Costa Rica",
    "country_code": "CR",
-   "price_monthly": 1881,
+   "price_monthly": 1879,
    "currency": "EUR",
-   "price_usd": 2201.0,
+   "price_usd": 2199.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-x3450-266ghz-4-cores-san-jose-cr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32558,9 +32298,9 @@
    "location": "Dubai, AE",
    "country": "United Arab Emirates",
    "country_code": "AE",
-   "price_monthly": 1996,
+   "price_monthly": 1994,
    "currency": "EUR",
-   "price_usd": 2336.0,
+   "price_usd": 2333.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-silver-4114-22ghz-10-cores-dubai-ae-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32578,9 +32318,9 @@
    "location": "San Jose, CR",
    "country": "Costa Rica",
    "country_code": "CR",
-   "price_monthly": 1997,
+   "price_monthly": 1995,
    "currency": "EUR",
-   "price_usd": 2337.0,
+   "price_usd": 2334.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e3-1240-v6-37ghz-4-cores-san-jose-cr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32598,9 +32338,9 @@
    "location": "Dubai, AE",
    "country": "United Arab Emirates",
    "country_code": "AE",
-   "price_monthly": 2101,
+   "price_monthly": 2099,
    "currency": "EUR",
-   "price_usd": 2458.0,
+   "price_usd": 2456.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-6132-26ghz-14-cores-dubai-ae-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32618,9 +32358,9 @@
    "location": "Toronto, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 2102,
+   "price_monthly": 2100,
    "currency": "EUR",
-   "price_usd": 2460.0,
+   "price_usd": 2457.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-gold-6554s-22ghz-36-cores-toronto-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32638,9 +32378,9 @@
    "location": "Sydney, AU",
    "country": "Australia",
    "country_code": "AU",
-   "price_monthly": 2105,
+   "price_monthly": 2104,
    "currency": "EUR",
-   "price_usd": 2463.0,
+   "price_usd": 2462.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9254-29ghz-24-cores-sydney-au-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32658,9 +32398,9 @@
    "location": "San Jose, CR",
    "country": "Costa Rica",
    "country_code": "CR",
-   "price_monthly": 2123,
+   "price_monthly": 2121,
    "currency": "EUR",
-   "price_usd": 2484.0,
+   "price_usd": 2482.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2146g-35ghz-6-cores-san-jose-cr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32678,9 +32418,9 @@
    "location": "Tokyo, JP",
    "country": "Japan",
    "country_code": "JP",
-   "price_monthly": 2132,
+   "price_monthly": 2130,
    "currency": "EUR",
-   "price_usd": 2495.0,
+   "price_usd": 2492.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9254-29ghz-24-cores-tokyo-jp/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32698,9 +32438,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 2132,
+   "price_monthly": 2130,
    "currency": "EUR",
-   "price_usd": 2495.0,
+   "price_usd": 2492.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9254-29ghz-24-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32718,9 +32458,9 @@
    "location": "San Jose, CR",
    "country": "Costa Rica",
    "country_code": "CR",
-   "price_monthly": 2133,
+   "price_monthly": 2131,
    "currency": "EUR",
-   "price_usd": 2496.0,
+   "price_usd": 2493.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2670-v3-23ghz-12-cores-san-jose-cr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32738,9 +32478,9 @@
    "location": "Montreal, CA",
    "country": "Canada",
    "country_code": "CA",
-   "price_monthly": 2144,
+   "price_monthly": 2142,
    "currency": "EUR",
-   "price_usd": 2509.0,
+   "price_usd": 2506.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-gold-6554s-22ghz-36-cores-montreal-ca/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32758,9 +32498,9 @@
    "location": "San Jose, CR",
    "country": "Costa Rica",
    "country_code": "CR",
-   "price_monthly": 2186,
+   "price_monthly": 2184,
    "currency": "EUR",
-   "price_usd": 2558.0,
+   "price_usd": 2555.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2680-v3-25ghz-12-cores-san-jose-cr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32798,9 +32538,9 @@
    "location": "Mexico City, MX",
    "country": "Mexico",
    "country_code": "MX",
-   "price_monthly": 2246,
+   "price_monthly": 2244,
    "currency": "EUR",
-   "price_usd": 2628.0,
+   "price_usd": 2626.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9254-29ghz-24-cores-mexico-city-mx/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32818,9 +32558,9 @@
    "location": "Buenos Aires, AR",
    "country": "Argentina",
    "country_code": "AR",
-   "price_monthly": 2246,
+   "price_monthly": 2244,
    "currency": "EUR",
-   "price_usd": 2628.0,
+   "price_usd": 2626.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9254-29ghz-24-cores-buenos-aires-ar/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32838,9 +32578,9 @@
    "location": "San Jose, CR",
    "country": "Costa Rica",
    "country_code": "CR",
-   "price_monthly": 2257,
+   "price_monthly": 2255,
    "currency": "EUR",
-   "price_usd": 2641.0,
+   "price_usd": 2639.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-gold-6154-3ghz-18-cores-san-jose-cr-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32878,9 +32618,9 @@
    "location": "Tokyo, JP",
    "country": "Japan",
    "country_code": "JP",
-   "price_monthly": 3058,
+   "price_monthly": 3055,
    "currency": "EUR",
-   "price_usd": 3578.0,
+   "price_usd": 3574.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9354p-325ghz-32-cores-tokyo-jp/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32898,9 +32638,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 3058,
+   "price_monthly": 3055,
    "currency": "EUR",
-   "price_usd": 3578.0,
+   "price_usd": 3574.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9354p-325ghz-32-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32938,9 +32678,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 4342,
+   "price_monthly": 4338,
    "currency": "EUR",
-   "price_usd": 5080.0,
+   "price_usd": 5075.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9455p-315ghz-48-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -32995,13 +32735,13 @@
    "storage_gb": 24000,
    "nvme": true,
    "bandwidth": "1 Gbps Unmetered",
-   "location": "Miami, US",
+   "location": "New York, US",
    "country": "United States",
    "country_code": "US",
    "price_monthly": 5249,
    "currency": "USD",
    "price_usd": 5249.0,
-   "url": "https://valebyte.com/en/servers/amd-threadripper-7995wx-2tb-miami-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-threadripper-7995wx-2tb-new-york-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD Threadripper 7995WX 2TB",
@@ -33035,13 +32775,13 @@
    "storage_gb": 24000,
    "nvme": true,
    "bandwidth": "1 Gbps Unmetered",
-   "location": "New York, US",
+   "location": "Miami, US",
    "country": "United States",
    "country_code": "US",
    "price_monthly": 5249,
    "currency": "USD",
    "price_usd": 5249.0,
-   "url": "https://valebyte.com/en/servers/amd-threadripper-7995wx-2tb-new-york-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
+   "url": "https://valebyte.com/en/servers/amd-threadripper-7995wx-2tb-miami-us/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
    "name": "AMD EPYC 9554P 3.1GHz 64 cores",
@@ -33058,9 +32798,9 @@
    "location": "Singapore, SG",
    "country": "Singapore",
    "country_code": "SG",
-   "price_monthly": 5164,
+   "price_monthly": 5159,
    "currency": "EUR",
-   "price_usd": 6042.0,
+   "price_usd": 6036.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9554p-31ghz-64-cores-singapore-sg/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -33078,9 +32818,9 @@
    "location": "Tokyo, JP",
    "country": "Japan",
    "country_code": "JP",
-   "price_monthly": 5164,
+   "price_monthly": 5159,
    "currency": "EUR",
-   "price_usd": 6042.0,
+   "price_usd": 6036.0,
    "url": "https://valebyte.com/en/servers/amd-epyc-9554p-31ghz-64-cores-tokyo-jp/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -33098,9 +32838,9 @@
    "location": "Lagos, NG",
    "country": "Nigeria",
    "country_code": "NG",
-   "price_monthly": 6018,
+   "price_monthly": 6012,
    "currency": "EUR",
-   "price_usd": 7041.0,
+   "price_usd": 7034.0,
    "url": "https://valebyte.com/en/servers/intel-xeon-e-2246g-36ghz-6-cores-lagos-ng-1/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -33118,9 +32858,9 @@
    "location": "Lagos, NG",
    "country": "Nigeria",
    "country_code": "NG",
-   "price_monthly": 6318,
+   "price_monthly": 6313,
    "currency": "EUR",
-   "price_usd": 7392.0,
+   "price_usd": 7386.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2660-v3-26ghz-10-cores-lagos-ng-3/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   },
   {
@@ -33138,9 +32878,9 @@
    "location": "Lagos, NG",
    "country": "Nigeria",
    "country_code": "NG",
-   "price_monthly": 6419,
+   "price_monthly": 6413,
    "currency": "EUR",
-   "price_usd": 7510.0,
+   "price_usd": 7503.0,
    "url": "https://valebyte.com/en/servers/dual-intel-xeon-e5-2660-v3-26ghz-10-cores-lagos-ng-2/?utm_source=github&utm_medium=dataset&utm_campaign=dedicated-server-prices"
   }
  ]
