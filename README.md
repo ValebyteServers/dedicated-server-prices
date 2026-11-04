@@ -8,7 +8,7 @@ Machine-readable price list of **1644 dedicated servers** currently in stock acr
 - **In stock only** — servers listed here are deployable now, most within minutes to hours, not weeks.
 - **Data files:** [`data/servers.csv`](data/servers.csv) · [`data/servers.json`](data/servers.json) (specs, location, monthly price, USD equivalent, order URL).
 
-_Last update: 2026-11-03 06:20 UTC. Prices below are in USD; CSV/JSON also carry the native price (EUR/USD) per offer._
+_Last update: 2026-11-04 06:20 UTC. Prices below are in USD; CSV/JSON also carry the native price (EUR/USD) per offer._
 
 ## 10 cheapest dedicated servers right now
 
